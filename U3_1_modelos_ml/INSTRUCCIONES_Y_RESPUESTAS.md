@@ -115,6 +115,6 @@ Responde las siguientes preguntas en esta misma celda (haz doble clic para edita
 
 Crear `U3_1_modelos_ml/data`, `source` y `notebook`, colocar el notebook en `notebook` y, una vez concluido, subir esa carpeta a un repositorio de GitHub y entregar su enlace. La publicación requiere el repositorio del alumno; esta entrega prepara los archivos y no publica un repositorio.
 
-## Ajustes de reproducibilidad
+## Versión publicada
 
-Se carga primero el CSV incluido en `data`, se ordenan los años y se comprueban duplicados, faltantes y el corte 2023/2024 para ambas variables. Se mantienen modelos, hiperparámetros y alcance didáctico del original. Las respuestas se basan en la copia incluida; OWID puede actualizar sus series posteriormente.
+Se publica el archivo del alumno `U3_1_modelos_regresion_demografia (1).ipynb` sin modificar su contenido. El inventario anterior describe las actividades del original. Esta versión conserva su carga por internet y su alternativa local en la carpeta del notebook; no incorpora las comprobaciones añadidas a la versión anterior. La tabla opcional tiene un error guardado, documentado en README.
