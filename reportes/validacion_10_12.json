@@ -1,0 +1,30 @@
+{
+  "ejecutado_utc": "2026-10-29T05:22:46.995867+00:00",
+  "python": "3.13.5",
+  "versiones": {
+    "pandas": "2.2.3",
+    "numpy": "2.1.3",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.0"
+  },
+  "practicas": [
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U3_2_China-Mexico.ipynb",
+      "resultado": "correcto",
+      "segundos": 4.15,
+      "celdas_codigo": 5
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U3_4_proyecciones_2100.ipynb",
+      "resultado": "correcto",
+      "segundos": 5.04,
+      "celdas_codigo": 8
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U4_1_Clustering_Wholesale_Customers.ipynb",
+      "resultado": "correcto",
+      "segundos": 7.62,
+      "celdas_codigo": 6
+    }
+  ]
+}

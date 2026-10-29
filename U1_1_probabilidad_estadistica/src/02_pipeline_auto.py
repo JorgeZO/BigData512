@@ -1,39 +1,12 @@
 from pathlib import Path
-
+import sys
 import pandas as pd
-import requests
-
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT.parent / "scripts"))
+from curso import leer_owid, metadatos
 
-
-# ============================================================
-# 1. OBTENCIÓN DE LOS DATOS
-# ============================================================
-
-url_datos = (
-    "https://ourworldindata.org/grapher/life-expectancy.csv"
-    "?v=1&csvType=full&useColumnShortNames=true"
-)
-
-df = pd.read_csv(
-    url_datos,
-    storage_options={
-        "User-Agent": "Our World In Data data fetch/1.0"
-    }
-)
-
-
-# ============================================================
-# 2. OBTENCIÓN DE LOS METADATOS
-# ============================================================
-
-url_metadata = (
-    "https://ourworldindata.org/grapher/life-expectancy.metadata.json"
-    "?v=1&csvType=full&useColumnShortNames=true"
-)
-
-metadata = requests.get(url_metadata).json()
-
+df = leer_owid("life-expectancy")
+metadata = metadatos("life-expectancy")
 
 # ============================================================
 # 3. FUNCIÓN DEL PIPELINE

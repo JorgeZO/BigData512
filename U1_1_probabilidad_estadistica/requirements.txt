@@ -1,5 +1,1 @@
-pandas
-numpy
-jupyter
-requests
-
+-r ../requirements.txt

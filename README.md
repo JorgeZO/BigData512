@@ -1,98 +1,91 @@
-# Big Data
+# Tópicos de Big Data · Grupo 512
 
-Repositorio de prácticas y proyectos desarrollados durante la materia de **Big Data**.
+**Jorge Adalberto Zuñiga Oliva · Matrícula 82005 · JorgeZO**
 
-## Descripción
+Prácticas con desarrollo, respuestas, tablas, gráficas y salidas de ejecución. El índice cubre
+las actividades identificadas en el material de referencia del curso, excepto los exámenes.
+Los reportes PDF resumen los análisis; los notebooks contienen el desarrollo completo y los HTML
+permiten consultarlo sin ejecutar Python.
 
-Este repositorio reúne las prácticas, ejercicios y proyectos realizados durante el curso. Cada práctica se organiza como un proyecto de datos independiente, con sus propios datos, código y dependencias.
+## Prácticas
 
-Git y GitHub permiten mantener un historial de cambios y sincronizar el trabajo en un repositorio remoto.
+| # | Práctica | Notebook con código y resultados | Reporte |
+|---:|---|---|---|
+| 1 | Evolución poblacional y estadística | [Abrir](U1_1_probabilidad_estadistica/notebooks/01_evolucion_poblacional.ipynb) | [HTML](reportes/html/01_evolucion_poblacional.html) · [PDF](reportes/pdf/01_evolucion_poblacional.pdf) |
+| 2 | Transformaciones de esperanza de vida | [Abrir](U1_1_probabilidad_estadistica/notebooks/02_transformaciones.ipynb) | [HTML](reportes/html/02_transformaciones.html) · [PDF](reportes/pdf/02_transformaciones.pdf) |
+| 3 | Fecundidad México-Japón | [Abrir](U1_1_probabilidad_estadistica/notebooks/03_fertility_rate.ipynb) | [HTML](reportes/html/03_fertility_rate.html) · [PDF](reportes/pdf/03_fertility_rate.pdf) |
+| 4 | Regresión demográfica de México | [Abrir](U3_1_modelos_ml/notebook/U3_1_modelos_regresion_demografia.ipynb) | [HTML](reportes/html/U3_1_modelos_regresion_demografia.html) · [PDF](reportes/pdf/U3_1_modelos_regresion_demografia.pdf) |
+| 5 | Gasto en salud | [Abrir](U3_1_modelos_ml/notebooks/04_healthcare_spending.ipynb) | [HTML](reportes/html/04_healthcare_spending.html) · [PDF](reportes/pdf/04_healthcare_spending.pdf) |
+| 6 | PIB per cápita | [Abrir](U3_1_modelos_ml/notebooks/05_gdp_per_capita.ipynb) | [HTML](reportes/html/05_gdp_per_capita.html) · [PDF](reportes/pdf/05_gdp_per_capita.pdf) |
+| 7 | Relación salud-ingreso | [Abrir](U3_1_modelos_ml/notebooks/06_relacion_salud_vs_gdp.ipynb) | [HTML](reportes/html/06_relacion_salud_vs_gdp.html) · [PDF](reportes/pdf/06_relacion_salud_vs_gdp.pdf) |
+| 8 | Preparación del panel demográfico | [Abrir](U3_1_modelos_ml/notebooks/U3_2_Preparacion_dataset.ipynb) | [HTML](reportes/html/U3_2_Preparacion_dataset.html) · [PDF](reportes/pdf/U3_2_Preparacion_dataset.pdf) |
+| 9 | Dataset integrado de salud e ingreso | [Abrir](U3_1_modelos_ml/notebooks/tarea_dataset_health_gdp.ipynb) | [HTML](reportes/html/tarea_dataset_health_gdp.html) · [PDF](reportes/pdf/tarea_dataset_health_gdp.pdf) |
+| 10 | Regresión México-China | [Abrir](U3_1_modelos_ml/notebooks/U3_2_China-Mexico.ipynb) | [HTML](reportes/html/U3_2_China-Mexico.html) · [PDF](reportes/pdf/U3_2_China-Mexico.pdf) |
+| 11 | Series de tiempo, red neuronal y escenarios | [Abrir](U3_1_modelos_ml/notebooks/U3_4_proyecciones_2100.ipynb) | [HTML](reportes/html/U3_4_proyecciones_2100.html) · [PDF](reportes/pdf/U3_4_proyecciones_2100.pdf) |
+| 12 | Clientes mayoristas | [Abrir](U3_1_modelos_ml/notebooks/U4_1_Clustering_Wholesale_Customers.ipynb) | [HTML](reportes/html/U4_1_Clustering_Wholesale_Customers.html) · [PDF](reportes/pdf/U4_1_Clustering_Wholesale_Customers.pdf) |
+| 13 | Clientes de Online Retail | [Abrir](U3_1_modelos_ml/notebooks/U4_2_Clustering_Online_Retail_Customers.ipynb) | [HTML](reportes/html/U4_2_Clustering_Online_Retail_Customers.html) · [PDF](reportes/pdf/U4_2_Clustering_Online_Retail_Customers.pdf) |
+| 14 | Líneas de venta de Online Retail | [Abrir](U3_1_modelos_ml/notebooks/U4_3_Plantilla_Clustering_Online_retail.ipynb) | [HTML](reportes/html/U4_3_Plantilla_Clustering_Online_retail.html) · [PDF](reportes/pdf/U4_3_Plantilla_Clustering_Online_retail.pdf) |
 
-## Estructura del repositorio
+Las 14 prácticas fueron ejecutadas en el orden del índice. El registro de versiones, ejecución y
+huellas de los notebooks está en [reportes/validacion.json](reportes/validacion.json).
+El [mapa de cobertura](COBERTURA.md) relaciona el temario de referencia con cada entrega.
 
-Cada carpeta de práctica conserva una estructura similar a la siguiente:
+## Investigaciones
 
-```text
-bigdata/
-├── .git/                              # Control de versiones local de Git
-├── .gitignore                         # Archivos y carpetas excluidos del repositorio
-├── README.md                          # Documentación general del curso
-├── U1_1_probabilidad_estadistica/
-│   ├── .venv/                         # Entorno virtual local (no se sube a GitHub)
-│   ├── requirements.txt               # Dependencias de Python de la práctica
-│   ├── data/
-│   │   ├── raw/                       # Datos originales
-│   │   └── processed/                 # Datos transformados
-│   ├── notebooks/                     # Jupyter Notebooks
-│   │   └── 01_evolucion_poblacional.ipynb
-│   ├── src/                           # Código Python reutilizable
-│   └── README.md                      # Documentación de la práctica
-├── U1_2_.../
-└── U2_1_.../
-```
+- [Preparación, modelos y evaluación de ML](investigaciones/01_machine_learning.md) · [PDF](<Actividad de investigación Machine Learning.pdf>)
+- [Metodología de proyecciones demográficas](investigaciones/02_modelo_predictivo.md) · [PDF](<Investigación Modelo predictivo.pdf>)
+- [KNN y ejemplo reproducible](investigaciones/03_knn.md) · [PDF](<KNN (K-Nearest Neighbors) Investigación.pdf>)
+- [Resumen cuantitativo de regresión](investigaciones/04_resumen_regresion.md) · [PDF](<Resumen_Modelos_Regresion.pdf>)
+- [Análisis de lectura sobre esperanza de vida](investigaciones/05_lectura_esperanza_vida.md) · [PDF](<Why is life expectancy in the US lower than in other rich countries.pdf>)
 
-## Reglas de organización
+El ejemplo de KNN se puede ejecutar por separado: `python investigaciones/ejemplo_knn.py`.
+Su [resultado guardado](reportes/knn_resultados.json) incluye selección de k, métricas y matriz de confusión.
 
-- Se utiliza un solo repositorio local de Git y un solo repositorio en GitHub para toda la materia.
-- Cada práctica es un proyecto independiente dentro de su propia carpeta.
-- Cada práctica tiene su propio entorno virtual (`.venv`) y su archivo `requirements.txt`.
-- La carpeta `.venv` nunca se sube a GitHub; el entorno se puede reconstruir desde `requirements.txt`.
-- Para trabajar en una práctica, abre su carpeta directamente en Visual Studio Code y activa el entorno virtual correspondiente.
-- No ejecutes `git init` nuevamente al crear una práctica: el repositorio ya existe en la carpeta raíz.
+## Ejecutar el trabajo
 
-## Configuración inicial de Git
-
-Verifica que Git esté instalado y configura la identidad que aparecerá en los commits:
-
-```bash
-git --version
-git config --global user.name "Nombre Apellido"
-git config --global user.email "correo@ejemplo.com"
-```
-
-Puedes comprobar la configuración con:
+Se recomienda Python 3.11 o posterior; los notebooks se comprobaron con Python 3.13 y las versiones
+de [requirements.txt](requirements.txt). Desde la carpeta raíz:
 
 ```bash
-git config --global user.name
-git config --global user.email
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python -m jupyterlab
 ```
 
-## Flujo de trabajo básico
-
-Después de modificar archivos en una práctica, revisa, prepara, confirma y sincroniza los cambios:
+En Windows, la activación equivalente es `.venv\Scripts\activate`.
+Para regenerar las salidas y los HTML de todas las prácticas:
 
 ```bash
-git status
-git add .
-git commit -m "Describe el cambio realizado"
-git push
+python scripts/ejecutar_practicas.py
+python investigaciones/ejemplo_knn.py
+python create_pdf.py
+python scripts/verificar_entrega.py
 ```
 
-Para consultar el historial de commits:
+El ejecutor también acepta `--desde 10 --hasta 14`. La preparación de datasets es la práctica 8
+y la integración es la 9; deben ejecutarse antes de las que los utilizan. Los CSV preparados ya
+se incluyen para consultar cada notebook por separado.
 
-```bash
-git log --oneline --graph --decorate
-```
+## Datos y reproducibilidad
 
-## Archivos ignorados
+- [datos_fuente/manifest.json](datos_fuente/manifest.json): descargas de OWID y UCI, URLs, fechas UTC y SHA-256.
+- [datos_fuente/material_clase.json](datos_fuente/material_clase.json): archivos de datos previamente proporcionados.
+- Cada indicador de OWID conserva su JSON de metadatos, definición y unidad.
+- El CSV de Online Retail es un **recorte de clase de 12,786 filas**; no es el dataset UCI completo.
+- Los notebooks leen copias locales. Para actualizar fuentes públicas de forma explícita: `python scripts/descargar_datos.py`.
 
-El archivo `.gitignore` debe excluir archivos locales y temporales, por ejemplo:
+Actualizar fuentes puede modificar cobertura, resultados e interpretaciones. Después de hacerlo
+hay que ejecutar de nuevo las prácticas y revisar las conclusiones. Una proyección de 2100 es
+un escenario bajo supuestos; no se presenta como una observación futura ni como certeza.
 
-```gitignore
-.DS_Store
-.vscode/
-**/.venv/
-**/__pycache__/
-**/.ipynb_checkpoints/
-```
+## Fuentes y organización
 
-## Publicación en GitHub
+Las fuentes numéricas son OWID, Naciones Unidas, OMS/Banco Mundial según los metadatos y UCI.
+El [repositorio de referencia del curso](https://github.com/No-ly/Big-Data-5to) permitió identificar
+el temario y contiene el CSV de clase. Los desarrollos nuevos muestran su procedimiento,
+sus propias ejecuciones y las referencias usadas. Se conservaron y ampliaron las prácticas que Jorge ya tenía.
 
-El repositorio remoto se vincula una sola vez desde la carpeta raíz:
-
-```bash
-git remote add origin https://github.com/JorgeZO/BigData512.git
-git push -u origin main
-```
-
-Después del primer envío, normalmente será suficiente ejecutar `git push` para publicar los nuevos commits.
+Las carpetas `U1_1_probabilidad_estadistica` y `U3_1_modelos_ml` contienen las prácticas;
+`investigaciones` los textos editables; `reportes` los resultados de consulta; `scripts` las herramientas comunes.
+El examen original de Jorge se conserva aparte y no forma parte de esta validación de prácticas.

@@ -1,0 +1,30 @@
+[
+  {
+    "archivo": "U3_1_modelos_ml/data/raw/online_retail.csv",
+    "sha256": "d1045b1af09ab3426808d9dc9926fdb77485316e2a16193e0876b4a3cbd8ca00",
+    "bytes": 1082263,
+    "procedencia": "CSV de clase del repositorio de referencia; recorte, selección no documentada",
+    "referencia": "https://github.com/No-ly/Big-Data-5to"
+  },
+  {
+    "archivo": "U3_1_modelos_ml/data/births-and-deaths-projected-to-2100.csv",
+    "sha256": "7b11552ad61e0acea08ef25f53a973944e5283826731864125a20f609d9087c8",
+    "bytes": 1373069,
+    "procedencia": "Dato previamente incluido en el repositorio de Jorge; conservar metadatos originales",
+    "referencia": "https://github.com/JorgeZO/BigData512"
+  },
+  {
+    "archivo": "U1_1_probabilidad_estadistica/data/raw/annual_population_growth/annual-population-growth.csv",
+    "sha256": "d20bfc09dab72a37a3004d76dcd3a00abefa184117987ea280d45285e8d8ad8b",
+    "bytes": 1064571,
+    "procedencia": "Dato previamente incluido en el repositorio de Jorge; conservar metadatos originales",
+    "referencia": "https://github.com/JorgeZO/BigData512"
+  },
+  {
+    "archivo": "U1_1_probabilidad_estadistica/data/raw/births_deaths/births-and-deaths-projected-to-2100.csv",
+    "sha256": "8b683d0b29f78d3519e8b3ac72bc06af73bda62f6d610f5fa942b4feccf1ee82",
+    "bytes": 1372949,
+    "procedencia": "Dato previamente incluido en el repositorio de Jorge; conservar metadatos originales",
+    "referencia": "https://github.com/JorgeZO/BigData512"
+  }
+]

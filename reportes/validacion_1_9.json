@@ -1,0 +1,66 @@
+{
+  "ejecutado_utc": "2026-10-29T05:19:40.652650Z",
+  "python": "3.13.5",
+  "versiones": {
+    "pandas": "2.2.3",
+    "numpy": "2.1.3",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.0"
+  },
+  "practicas": [
+    {
+      "notebook": "U1_1_probabilidad_estadistica/notebooks/01_evolucion_poblacional.ipynb",
+      "resultado": "correcto",
+      "segundos": 2.14,
+      "celdas_codigo": 27
+    },
+    {
+      "notebook": "U1_1_probabilidad_estadistica/notebooks/02_transformaciones.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.65,
+      "celdas_codigo": 5
+    },
+    {
+      "notebook": "U1_1_probabilidad_estadistica/notebooks/03_fertility_rate.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.95,
+      "celdas_codigo": 5
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebook/U3_1_modelos_regresion_demografia.ipynb",
+      "resultado": "correcto",
+      "segundos": 8.71,
+      "celdas_codigo": 54
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/04_healthcare_spending.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.57,
+      "celdas_codigo": 4
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/05_gdp_per_capita.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.75,
+      "celdas_codigo": 4
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/06_relacion_salud_vs_gdp.ipynb",
+      "resultado": "correcto",
+      "segundos": 2.29,
+      "celdas_codigo": 4
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U3_2_Preparacion_dataset.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.71,
+      "celdas_codigo": 4
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/tarea_dataset_health_gdp.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.4,
+      "celdas_codigo": 4
+    }
+  ]
+}

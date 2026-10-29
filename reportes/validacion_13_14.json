@@ -1,0 +1,24 @@
+{
+  "ejecutado_utc": "2026-10-29T05:24:25.448137+00:00",
+  "python": "3.13.5",
+  "versiones": {
+    "pandas": "2.2.3",
+    "numpy": "2.1.3",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.0"
+  },
+  "practicas": [
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U4_2_Clustering_Online_Retail_Customers.ipynb",
+      "resultado": "correcto",
+      "segundos": 3.88,
+      "celdas_codigo": 7
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U4_3_Plantilla_Clustering_Online_retail.ipynb",
+      "resultado": "correcto",
+      "segundos": 3.69,
+      "celdas_codigo": 8
+    }
+  ]
+}

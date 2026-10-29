@@ -1,0 +1,135 @@
+{
+  "ejecutado_utc": "2026-10-29T05:27:07.583995+00:00",
+  "python": "3.13.5",
+  "versiones": {
+    "pandas": "2.2.3",
+    "numpy": "2.1.3",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.0"
+  },
+  "practicas": [
+    {
+      "notebook": "U1_1_probabilidad_estadistica/notebooks/01_evolucion_poblacional.ipynb",
+      "resultado": "correcto",
+      "segundos": 2.14,
+      "celdas_codigo": 27,
+      "sha256_notebook": "876058d690371a419ef4fc59a8b88c36486fa108bbd4a18968d6c2a9528e4efe"
+    },
+    {
+      "notebook": "U1_1_probabilidad_estadistica/notebooks/02_transformaciones.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.65,
+      "celdas_codigo": 5,
+      "sha256_notebook": "3d978b17b4a1dccea055229468e5655144f8305a3d4beb5ec1694186fc24ee62"
+    },
+    {
+      "notebook": "U1_1_probabilidad_estadistica/notebooks/03_fertility_rate.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.95,
+      "celdas_codigo": 5,
+      "sha256_notebook": "41a57f991943f9121fdc16bb6610eea4012645e394825707b6078119c2916b79"
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebook/U3_1_modelos_regresion_demografia.ipynb",
+      "resultado": "correcto",
+      "segundos": 8.71,
+      "celdas_codigo": 54,
+      "sha256_notebook": "ff3e26d446f734811a183ddd19ea5f60009c9a8074707c31868da80ecb6ecb1f"
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/04_healthcare_spending.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.57,
+      "celdas_codigo": 4,
+      "sha256_notebook": "4437be8f7bc6dc4a8601cfe0325f251445110c6563a1573d8c96435a8b56f8f8"
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/05_gdp_per_capita.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.75,
+      "celdas_codigo": 4,
+      "sha256_notebook": "118d34182b9a9e27a8d79233d85ae18b063f144c5dbdda5fd99d9cde2a544c9f"
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/06_relacion_salud_vs_gdp.ipynb",
+      "resultado": "correcto",
+      "segundos": 2.29,
+      "celdas_codigo": 4,
+      "sha256_notebook": "8dc5f70de87679b812cc8e5860bc3d7813fb101d7025fa0288bccc8c178fb1f4"
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U3_2_Preparacion_dataset.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.71,
+      "celdas_codigo": 4,
+      "sha256_notebook": "f0f8668eb2015126729d41b761cefed82ee2c918a21cb27e5564d683965fee54"
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/tarea_dataset_health_gdp.ipynb",
+      "resultado": "correcto",
+      "segundos": 1.4,
+      "celdas_codigo": 4,
+      "sha256_notebook": "0d3557daa265cfc22898580c38ed2eb97bbdaece84531de5fcce07532421b4dc"
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U3_2_China-Mexico.ipynb",
+      "resultado": "correcto",
+      "segundos": 4.15,
+      "celdas_codigo": 5,
+      "sha256_notebook": "f4caa61f6b5407bdb8f9752a6e5c5f0a2172a3db10d76acea665688686a25018"
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U3_4_proyecciones_2100.ipynb",
+      "resultado": "correcto",
+      "segundos": 5.86,
+      "celdas_codigo": 8,
+      "sha256_notebook": "a7bc977209ca9361c81f473176034ba7098ed620bce280a7ae6b7500f0f57aec"
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U4_1_Clustering_Wholesale_Customers.ipynb",
+      "resultado": "correcto",
+      "segundos": 7.62,
+      "celdas_codigo": 6,
+      "sha256_notebook": "67b50fdda54006d72a954b82c31b916424dcb14ff519d020b8bc41aed5e4a0a4"
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U4_2_Clustering_Online_Retail_Customers.ipynb",
+      "resultado": "correcto",
+      "segundos": 3.88,
+      "celdas_codigo": 7,
+      "sha256_notebook": "3dbffdd7ce148b5bae395398e6388b5cef6b392b53177c827c522d08497f632c"
+    },
+    {
+      "notebook": "U3_1_modelos_ml/notebooks/U4_3_Plantilla_Clustering_Online_retail.ipynb",
+      "resultado": "correcto",
+      "segundos": 3.69,
+      "celdas_codigo": 8,
+      "sha256_notebook": "6cf386bdc3a48c8e9fac8a83937431098127ea9b045c0874c2a9102b3300d472"
+    }
+  ],
+  "ejecuciones_por_bloques": [
+    {
+      "archivo": "validacion_1_9.json",
+      "ejecutado_utc": "2026-10-29T05:19:40.652650Z"
+    },
+    {
+      "archivo": "validacion_10_12.json",
+      "ejecutado_utc": "2026-10-29T05:22:46.995867+00:00"
+    },
+    {
+      "archivo": "validacion_13_14.json",
+      "ejecutado_utc": "2026-10-29T05:24:25.448137+00:00"
+    },
+    {
+      "archivo": "validacion_11_11.json",
+      "ejecutado_utc": "2026-10-29T05:27:07.583995+00:00"
+    }
+  ],
+  "total_practicas": 14,
+  "scripts_adicionales_verificados": [
+    "investigaciones/ejemplo_knn.py",
+    "U1_1_probabilidad_estadistica/src/01_pipeline.py",
+    "U1_1_probabilidad_estadistica/src/02_pipeline_auto.py",
+    "U1_1_probabilidad_estadistica/src/03_migracion.py"
+  ]
+}

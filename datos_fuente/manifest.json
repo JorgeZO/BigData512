@@ -1,0 +1,176 @@
+[
+  {
+    "archivo": "owid/children-born-per-woman.csv",
+    "url": "https://ourworldindata.org/grapher/children-born-per-woman.csv?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "c4398f67298b5e78f1fab29f39dcaf8df371752c05ea072b97e568f41bf0c997",
+    "bytes": 510131,
+    "descargado_utc": "2026-10-29T05:14:47.033975+00:00"
+  },
+  {
+    "archivo": "owid/children-born-per-woman.metadata.json",
+    "url": "https://ourworldindata.org/grapher/children-born-per-woman.metadata.json?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "44212707e7c064bd5ccf71bd463fea91acb2e5453557a973d3853884fa3d2d24",
+    "bytes": 2369,
+    "descargado_utc": "2026-10-29T05:14:46.791394+00:00"
+  },
+  {
+    "archivo": "owid/life-expectancy.csv",
+    "url": "https://ourworldindata.org/grapher/life-expectancy.csv?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "6336e80067d72cd910e5b03a4150bbb203fb8f22c6a9c0c43e91aba07038720b",
+    "bytes": 605252,
+    "descargado_utc": "2026-10-29T05:14:46.796986+00:00"
+  },
+  {
+    "archivo": "owid/life-expectancy.metadata.json",
+    "url": "https://ourworldindata.org/grapher/life-expectancy.metadata.json?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "cef0db2908ddd7423fe8ba16ca49cd0bfc391c7a08685b45762974956da69d70",
+    "bytes": 4370,
+    "descargado_utc": "2026-10-29T05:14:46.384074+00:00"
+  },
+  {
+    "archivo": "owid/life-expectancy-at-birth-including-the-un-projections.csv",
+    "url": "https://ourworldindata.org/grapher/life-expectancy-at-birth-including-the-un-projections.csv?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "ff5f3150041314b213e67ebb13d668175fc2a4bb12eaf70dafb39a9b4f866f80",
+    "bytes": 1076737,
+    "descargado_utc": "2026-10-29T05:14:47.805099+00:00"
+  },
+  {
+    "archivo": "owid/life-expectancy-at-birth-including-the-un-projections.metadata.json",
+    "url": "https://ourworldindata.org/grapher/life-expectancy-at-birth-including-the-un-projections.metadata.json?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "5c4e63b5ed1a72eec68dd9592057929f6945a90696a3fc2c27707d800d181820",
+    "bytes": 4061,
+    "descargado_utc": "2026-10-29T05:14:47.757070+00:00"
+  },
+  {
+    "archivo": "owid/population-with-un-projections.csv",
+    "url": "https://ourworldindata.org/grapher/population-with-un-projections.csv?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "2165be88f81291bf8298ee7cb81c3e19dbaa4ed5b79fc83098cbd5f34ae6bb6c",
+    "bytes": 1172571,
+    "descargado_utc": "2026-10-29T05:14:48.595898+00:00"
+  },
+  {
+    "archivo": "owid/population-with-un-projections.metadata.json",
+    "url": "https://ourworldindata.org/grapher/population-with-un-projections.metadata.json?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "8f07d160645086a9e24acfb0e005bca08e21940454052b6f5a5e95d1248d5c86",
+    "bytes": 2988,
+    "descargado_utc": "2026-10-29T05:14:47.884276+00:00"
+  },
+  {
+    "archivo": "owid/number-of-births-per-year.csv",
+    "url": "https://ourworldindata.org/grapher/number-of-births-per-year.csv?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "34dd069d286177dab92c6c30530cb59a578059a147031902fdb7b8be82fc86d8",
+    "bytes": 1081395,
+    "descargado_utc": "2026-10-29T05:14:49.030845+00:00"
+  },
+  {
+    "archivo": "owid/number-of-births-per-year.metadata.json",
+    "url": "https://ourworldindata.org/grapher/number-of-births-per-year.metadata.json?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "2af9bd4b5469dcea1e6b43c80581d3fe8b7b725f3cc4dab397632e81a3e136db",
+    "bytes": 2131,
+    "descargado_utc": "2026-10-29T05:14:48.960396+00:00"
+  },
+  {
+    "archivo": "owid/number-of-deaths-per-year.csv",
+    "url": "https://ourworldindata.org/grapher/number-of-deaths-per-year.csv?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "ad73ecfdaf5048a2873f39a9ae5331c421e4115d7efa4bdab29ac8c79f7020e2",
+    "bytes": 1064357,
+    "descargado_utc": "2026-10-29T05:14:49.030573+00:00"
+  },
+  {
+    "archivo": "owid/number-of-deaths-per-year.metadata.json",
+    "url": "https://ourworldindata.org/grapher/number-of-deaths-per-year.metadata.json?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "7b90b4d3e3b3e7d22b4fb1d03753a854ec09c95ce4638c376ab83dd4a0a11fab",
+    "bytes": 2251,
+    "descargado_utc": "2026-10-29T05:14:49.852105+00:00"
+  },
+  {
+    "archivo": "owid/number-of-child-deaths-unwpp.csv",
+    "url": "https://ourworldindata.org/grapher/number-of-child-deaths-unwpp.csv?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "358ac9f861d484cb0cf0a9cf4a5834cfa07646e3538463bcff31f3382f2bce39",
+    "bytes": 482189,
+    "descargado_utc": "2026-10-29T05:14:50.049417+00:00"
+  },
+  {
+    "archivo": "owid/number-of-child-deaths-unwpp.metadata.json",
+    "url": "https://ourworldindata.org/grapher/number-of-child-deaths-unwpp.metadata.json?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "fbe9bfc18cdf26a30f3f60801f5d80bc448c00d1b87245efe0cf790944b13df9",
+    "bytes": 1343,
+    "descargado_utc": "2026-10-29T05:14:49.852609+00:00"
+  },
+  {
+    "archivo": "owid/total-healthcare-expenditure-gdp.csv",
+    "url": "https://ourworldindata.org/grapher/total-healthcare-expenditure-gdp.csv?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "c56c1cc92a4e899053325fdf703475afddd2964024d734c148af7c8871a91120",
+    "bytes": 135032,
+    "descargado_utc": "2026-10-29T05:14:49.551502+00:00"
+  },
+  {
+    "archivo": "owid/total-healthcare-expenditure-gdp.metadata.json",
+    "url": "https://ourworldindata.org/grapher/total-healthcare-expenditure-gdp.metadata.json?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "4e857806cee6fc44b8e938741f42ea4b72a08f589f21f184adb5a985519fc84f",
+    "bytes": 1561,
+    "descargado_utc": "2026-10-29T05:14:50.047779+00:00"
+  },
+  {
+    "archivo": "owid/gdp-per-capita-worldbank.csv",
+    "url": "https://ourworldindata.org/grapher/gdp-per-capita-worldbank.csv?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "39d736d2ee530302ea99d01c2cd95a4e6fda7c26af24472ce1935aab70409ba6",
+    "bytes": 276682,
+    "descargado_utc": "2026-10-29T05:14:50.925966+00:00"
+  },
+  {
+    "archivo": "owid/gdp-per-capita-worldbank.metadata.json",
+    "url": "https://ourworldindata.org/grapher/gdp-per-capita-worldbank.metadata.json?v=1&csvType=full&useColumnShortNames=true",
+    "fuente": "Our World in Data; consultar metadatos por indicador",
+    "sha256": "55ebb8bac42e69887e5654952aa165e9d1f7cbf8fefd3ed5292e09e2fb9be59b",
+    "bytes": 3408,
+    "descargado_utc": "2026-10-29T05:14:50.626866+00:00"
+  },
+  {
+    "archivo": "uci/wholesale_customers.zip",
+    "url": "https://archive.ics.uci.edu/static/public/292/wholesale+customers.zip",
+    "fuente": "Cardoso, M. (2013). UCI. DOI: 10.24432/C5030X",
+    "sha256": "647e6a61683ed23f48c7b04e1e2be78835eca8758b32267603fc42a1479dbfb8",
+    "bytes": 15175,
+    "descargado_utc": "2026-10-29T05:14:50.336560+00:00"
+  },
+  {
+    "archivo": "uci/wholesale_customers.csv",
+    "extraido_de": "uci/wholesale_customers.zip",
+    "sha256": "c3d018c643565b85cee733c4a2ac76dd76e080e857cb23f0ccfcc2e15a6c17ef",
+    "bytes": 15021
+  },
+  {
+    "archivo": "owid/migrant-populations.csv",
+    "url": "https://ourworldindata.org/grapher/migrant-populations.csv?v=1&csvType=full&useColumnShortNames=true&metric=immigrants&unit=number",
+    "fuente": "UN DESA International Migrant Stock; procesado por OWID",
+    "sha256": "78137d913c180077532e4a95dca772dd46b3566babdacee7fb650d83f5edc40d",
+    "bytes": 74582,
+    "descargado_utc": "2026-10-29T05:31:42.164982+00:00"
+  },
+  {
+    "archivo": "owid/migrant-populations.metadata.json",
+    "url": "https://ourworldindata.org/grapher/migrant-populations.metadata.json?v=1&csvType=full&useColumnShortNames=true&metric=immigrants&unit=number",
+    "fuente": "UN DESA International Migrant Stock; procesado por OWID",
+    "sha256": "84e0f85dfdaadc2788bf2bf55d93d817a47ed9092b6b61e4542ed4e6a34383a2",
+    "bytes": 2370,
+    "descargado_utc": "2026-10-29T05:31:43.088618+00:00"
+  }
+]

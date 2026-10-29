@@ -1,0 +1,2145 @@
+entity,code,year,immigrants_all,owid_region
+Afghanistan,AFG,1990,57686,Asia
+Afghanistan,AFG,1995,71522,Asia
+Afghanistan,AFG,2000,75917,Asia
+Afghanistan,AFG,2005,87314,Asia
+Afghanistan,AFG,2010,102276,Asia
+Afghanistan,AFG,2015,339432,Asia
+Afghanistan,AFG,2020,144098,Asia
+Afghanistan,AFG,2024,98110,Asia
+Africa,OWID_AFR,1990,16176915,
+Africa,OWID_AFR,1995,16653698,
+Africa,OWID_AFR,2000,15413140,
+Africa,OWID_AFR,2005,16602802,
+Africa,OWID_AFR,2010,17752216,
+Africa,OWID_AFR,2015,22683929,
+Africa,OWID_AFR,2020,25267356,
+Africa,OWID_AFR,2024,29180440,
+Albania,ALB,1990,66013,Europe
+Albania,ALB,1995,71354,Europe
+Albania,ALB,2000,76695,Europe
+Albania,ALB,2005,64739,Europe
+Albania,ALB,2010,52784,Europe
+Albania,ALB,2015,52031,Europe
+Albania,ALB,2020,48810,Europe
+Albania,ALB,2024,46377,Europe
+Algeria,DZA,1990,273954,Africa
+Algeria,DZA,1995,262032,Africa
+Algeria,DZA,2000,250110,Africa
+Algeria,DZA,2005,197728,Africa
+Algeria,DZA,2010,217268,Africa
+Algeria,DZA,2015,239473,Africa
+Algeria,DZA,2020,250378,Africa
+Algeria,DZA,2024,259458,Africa
+American Samoa,ASM,1990,21283,Oceania
+American Samoa,ASM,1995,23098,Oceania
+American Samoa,ASM,2000,24912,Oceania
+American Samoa,ASM,2005,24233,Oceania
+American Samoa,ASM,2010,23555,Oceania
+American Samoa,ASM,2015,23513,Oceania
+American Samoa,ASM,2020,23608,Oceania
+American Samoa,ASM,2024,23684,Oceania
+Andorra,AND,1990,38891,Europe
+Andorra,AND,1995,44206,Europe
+Andorra,AND,2000,42147,Europe
+Andorra,AND,2005,50298,Europe
+Andorra,AND,2010,52053,Europe
+Andorra,AND,2015,42264,Europe
+Andorra,AND,2020,45574,Europe
+Andorra,AND,2024,48408,Europe
+Angola,AGO,1990,33517,Africa
+Angola,AGO,1995,39813,Africa
+Angola,AGO,2000,46108,Africa
+Angola,AGO,2005,62331,Africa
+Angola,AGO,2010,336367,Africa
+Angola,AGO,2015,632178,Africa
+Angola,AGO,2020,656434,Africa
+Angola,AGO,2024,676507,Africa
+Anguilla,AIA,1990,2570,North America
+Anguilla,AIA,1995,3317,North America
+Anguilla,AIA,2000,4063,North America
+Anguilla,AIA,2005,4684,North America
+Anguilla,AIA,2010,5103,North America
+Anguilla,AIA,2015,5471,North America
+Anguilla,AIA,2020,5715,North America
+Anguilla,AIA,2024,5918,North America
+Antigua and Barbuda,ATG,1990,12029,North America
+Antigua and Barbuda,ATG,1995,17550,North America
+Antigua and Barbuda,ATG,2000,23071,North America
+Antigua and Barbuda,ATG,2005,24741,North America
+Antigua and Barbuda,ATG,2010,26412,North America
+Antigua and Barbuda,ATG,2015,28082,North America
+Antigua and Barbuda,ATG,2020,29386,North America
+Antigua and Barbuda,ATG,2024,30473,North America
+Argentina,ARG,1990,1647935,South America
+Argentina,ARG,1995,1589660,South America
+Argentina,ARG,2000,1543851,South America
+Argentina,ARG,2005,1641560,South America
+Argentina,ARG,2010,1799680,South America
+Argentina,ARG,2015,1856613,South America
+Argentina,ARG,2020,1912294,South America
+Argentina,ARG,2024,1958039,South America
+Armenia,ARM,1990,433541,Asia
+Armenia,ARM,1995,622042,Asia
+Armenia,ARM,2000,588242,Asia
+Armenia,ARM,2005,476812,Asia
+Armenia,ARM,2010,210873,Asia
+Armenia,ARM,2015,190896,Asia
+Armenia,ARM,2020,207139,Asia
+Armenia,ARM,2024,274645,Asia
+Aruba,ABW,1990,14444,North America
+Aruba,ABW,1995,22274,North America
+Aruba,ABW,2000,30104,North America
+Aruba,ABW,2005,32540,North America
+Aruba,ABW,2010,34328,North America
+Aruba,ABW,2015,36114,North America
+Aruba,ABW,2020,53593,North America
+Aruba,ABW,2024,73494,North America
+Asia,OWID_ASI,1990,46657270,
+Asia,OWID_ASI,1995,44779342,
+Asia,OWID_ASI,2000,47568162,
+Asia,OWID_ASI,2005,51457579,
+Asia,OWID_ASI,2010,64151786,
+Asia,OWID_ASI,2015,78173152,
+Asia,OWID_ASI,2020,84474238,
+Asia,OWID_ASI,2024,91968240,
+Australia,AUS,1990,3991501,Oceania
+Australia,AUS,1995,4215646,Oceania
+Australia,AUS,2000,4389847,Oceania
+Australia,AUS,2005,4880921,Oceania
+Australia,AUS,2010,5879802,Oceania
+Australia,AUS,2015,6733056,Oceania
+Australia,AUS,2020,7604850,Oceania
+Australia,AUS,2024,8111404,Oceania
+Austria,AUT,1990,633753,Europe
+Austria,AUT,1995,764758,Europe
+Austria,AUT,2000,920045,Europe
+Austria,AUT,2005,1174101,Europe
+Austria,AUT,2010,1285706,Europe
+Austria,AUT,2015,1540486,Europe
+Austria,AUT,2020,1781046,Europe
+Austria,AUT,2024,2327064,Europe
+Azerbaijan,AZE,1990,402177,Asia
+Azerbaijan,AZE,1995,588812,Asia
+Azerbaijan,AZE,2000,523518,Asia
+Azerbaijan,AZE,2005,301922,Asia
+Azerbaijan,AZE,2010,251417,Asia
+Azerbaijan,AZE,2015,224337,Asia
+Azerbaijan,AZE,2020,198894,Asia
+Azerbaijan,AZE,2024,218460,Asia
+Bahamas,BHS,1990,26855,North America
+Bahamas,BHS,1995,31654,North America
+Bahamas,BHS,2000,36454,North America
+Bahamas,BHS,2005,45531,North America
+Bahamas,BHS,2010,54745,North America
+Bahamas,BHS,2015,59241,North America
+Bahamas,BHS,2020,63583,North America
+Bahamas,BHS,2024,67285,North America
+Bahrain,BHR,1990,176972,Asia
+Bahrain,BHR,1995,213818,Asia
+Bahrain,BHR,2000,238924,Asia
+Bahrain,BHR,2005,387591,Asia
+Bahrain,BHR,2010,643007,Asia
+Bahrain,BHR,2015,721540,Asia
+Bahrain,BHR,2020,785983,Asia
+Bahrain,BHR,2024,840202,Asia
+Bangladesh,BGD,1990,881617,Asia
+Bangladesh,BGD,1995,934735,Asia
+Bangladesh,BGD,2000,987853,Asia
+Bangladesh,BGD,2005,1062270,Asia
+Bangladesh,BGD,2010,1345546,Asia
+Bangladesh,BGD,2015,1422179,Asia
+Bangladesh,BGD,2020,2115408,Asia
+Bangladesh,BGD,2024,2906338,Asia
+Barbados,BRB,1990,24024,North America
+Barbados,BRB,1995,26224,North America
+Barbados,BRB,2000,28424,North America
+Barbados,BRB,2005,30624,North America
+Barbados,BRB,2010,32825,North America
+Barbados,BRB,2015,34475,North America
+Barbados,BRB,2020,34869,North America
+Barbados,BRB,2024,35187,North America
+Belarus,BLR,1990,1248977,Europe
+Belarus,BLR,1995,1186282,Europe
+Belarus,BLR,2000,1123586,Europe
+Belarus,BLR,2005,1106982,Europe
+Belarus,BLR,2010,1090378,Europe
+Belarus,BLR,2015,1082905,Europe
+Belarus,BLR,2020,1067090,Europe
+Belarus,BLR,2024,1054604,Europe
+Belgium,BEL,1990,944340,Europe
+Belgium,BEL,1995,1003834,Europe
+Belgium,BEL,2000,1076676,Europe
+Belgium,BEL,2005,1243352,Europe
+Belgium,BEL,2010,1567639,Europe
+Belgium,BEL,2015,1814949,Europe
+Belgium,BEL,2020,2046975,Europe
+Belgium,BEL,2024,2349032,Europe
+Belize,BLZ,1990,30404,North America
+Belize,BLZ,1995,33446,North America
+Belize,BLZ,2000,36488,North America
+Belize,BLZ,2005,41438,North America
+Belize,BLZ,2010,46390,North America
+Belize,BLZ,2015,54615,North America
+Belize,BLZ,2020,62043,North America
+Belize,BLZ,2024,68706,North America
+Benin,BEN,1990,76751,Africa
+Benin,BEN,1995,105703,Africa
+Benin,BEN,2000,134655,Africa
+Benin,BEN,2005,248320,Africa
+Benin,BEN,2010,309225,Africa
+Benin,BEN,2015,366284,Africa
+Benin,BEN,2020,394276,Africa
+Benin,BEN,2024,418202,Africa
+Bermuda,BMU,1990,15683,North America
+Bermuda,BMU,1995,16676,North America
+Bermuda,BMU,2000,17684,North America
+Bermuda,BMU,2005,18108,North America
+Bermuda,BMU,2010,18547,North America
+Bermuda,BMU,2015,19212,North America
+Bermuda,BMU,2020,19739,North America
+Bermuda,BMU,2024,20171,North America
+Bhutan,BTN,1990,23807,Asia
+Bhutan,BTN,1995,27972,Asia
+Bhutan,BTN,2000,32137,Asia
+Bhutan,BTN,2005,40279,Asia
+Bhutan,BTN,2010,48420,Asia
+Bhutan,BTN,2015,51106,Asia
+Bhutan,BTN,2020,53612,Asia
+Bhutan,BTN,2024,55705,Asia
+Bolivia,BOL,1990,73758,South America
+Bolivia,BOL,1995,83598,South America
+Bolivia,BOL,2000,92658,South America
+Bolivia,BOL,2005,107745,South America
+Bolivia,BOL,2010,122846,South America
+Bolivia,BOL,2015,143008,South America
+Bolivia,BOL,2020,164121,South America
+Bolivia,BOL,2024,183234,South America
+Bosnia and Herzegovina,BIH,1990,56000,Europe
+Bosnia and Herzegovina,BIH,1995,69476,Europe
+Bosnia and Herzegovina,BIH,2000,82952,Europe
+Bosnia and Herzegovina,BIH,2005,47287,Europe
+Bosnia and Herzegovina,BIH,2010,38945,Europe
+Bosnia and Herzegovina,BIH,2015,38597,Europe
+Bosnia and Herzegovina,BIH,2020,36042,Europe
+Bosnia and Herzegovina,BIH,2024,34120,Europe
+Botswana,BWA,1990,27510,Africa
+Botswana,BWA,1995,40168,Africa
+Botswana,BWA,2000,74934,Africa
+Botswana,BWA,2005,84661,Africa
+Botswana,BWA,2010,94863,Africa
+Botswana,BWA,2015,103053,Africa
+Botswana,BWA,2020,110268,Africa
+Botswana,BWA,2024,116402,Africa
+Brazil,BRA,1990,803218,South America
+Brazil,BRA,1995,732622,South America
+Brazil,BRA,2000,687362,South America
+Brazil,BRA,2005,641029,South America
+Brazil,BRA,2010,596859,South America
+Brazil,BRA,2015,646540,South America
+Brazil,BRA,2020,1048866,South America
+Brazil,BRA,2024,1406299,South America
+British Virgin Islands,VGB,1990,8035,North America
+British Virgin Islands,VGB,1995,10046,North America
+British Virgin Islands,VGB,2000,12958,North America
+British Virgin Islands,VGB,2005,15016,North America
+British Virgin Islands,VGB,2010,17076,North America
+British Virgin Islands,VGB,2015,19535,North America
+British Virgin Islands,VGB,2020,22164,North America
+British Virgin Islands,VGB,2024,24520,North America
+Brunei,BRN,1990,73200,Asia
+Brunei,BRN,1995,84748,Asia
+Brunei,BRN,2000,96296,Asia
+Brunei,BRN,2005,98441,Asia
+Brunei,BRN,2010,100587,Asia
+Brunei,BRN,2015,102733,Asia
+Brunei,BRN,2020,111959,Asia
+Brunei,BRN,2024,119933,Asia
+Bulgaria,BGR,1990,21510,Europe
+Bulgaria,BGR,1995,32435,Europe
+Bulgaria,BGR,2000,43360,Europe
+Bulgaria,BGR,2005,61074,Europe
+Bulgaria,BGR,2010,76287,Europe
+Bulgaria,BGR,2015,123803,Europe
+Bulgaria,BGR,2020,184363,Europe
+Bulgaria,BGR,2024,299100,Europe
+Burkina Faso,BFA,1990,349652,Africa
+Burkina Faso,BFA,1995,464104,Africa
+Burkina Faso,BFA,2000,520363,Africa
+Burkina Faso,BFA,2005,597658,Africa
+Burkina Faso,BFA,2010,674438,Africa
+Burkina Faso,BFA,2015,704676,Africa
+Burkina Faso,BFA,2020,723989,Africa
+Burkina Faso,BFA,2024,739820,Africa
+Burundi,BDI,1990,333110,Africa
+Burundi,BDI,1995,254853,Africa
+Burundi,BDI,2000,125628,Africa
+Burundi,BDI,2005,192774,Africa
+Burundi,BDI,2010,247321,Africa
+Burundi,BDI,2015,298299,Africa
+Burundi,BDI,2020,344767,Africa
+Burundi,BDI,2024,387101,Africa
+Cambodia,KHM,1990,38375,Asia
+Cambodia,KHM,1995,92230,Asia
+Cambodia,KHM,2000,146085,Asia
+Cambodia,KHM,2005,114096,Asia
+Cambodia,KHM,2010,82028,Asia
+Cambodia,KHM,2015,73962,Asia
+Cambodia,KHM,2020,79341,Asia
+Cambodia,KHM,2024,83925,Asia
+Cameroon,CMR,1990,265967,Africa
+Cameroon,CMR,1995,244791,Africa
+Cameroon,CMR,2000,227242,Africa
+Cameroon,CMR,2005,265503,Africa
+Cameroon,CMR,2010,291474,Africa
+Cameroon,CMR,2015,508346,Africa
+Cameroon,CMR,2020,579209,Africa
+Cameroon,CMR,2024,642948,Africa
+Canada,CAN,1990,4251056,North America
+Canada,CAN,1995,4853738,North America
+Canada,CAN,2000,5525404,North America
+Canada,CAN,2005,6086976,North America
+Canada,CAN,2010,7035001,North America
+Canada,CAN,2015,8049874,North America
+Canada,CAN,2020,8332892,North America
+Canada,CAN,2024,8805839,North America
+Cape Verde,CPV,1990,8931,Africa
+Cape Verde,CPV,1995,9979,Africa
+Cape Verde,CPV,2000,11027,Africa
+Cape Verde,CPV,2005,12700,Africa
+Cape Verde,CPV,2010,14373,Africa
+Cape Verde,CPV,2015,14924,Africa
+Cape Verde,CPV,2020,15788,Africa
+Cape Verde,CPV,2024,16515,Africa
+Cayman Islands,CYM,1990,9315,North America
+Cayman Islands,CYM,1995,12666,North America
+Cayman Islands,CYM,2000,19176,North America
+Cayman Islands,CYM,2005,20679,North America
+Cayman Islands,CYM,2010,24062,North America
+Cayman Islands,CYM,2015,26193,North America
+Cayman Islands,CYM,2020,29242,North America
+Cayman Islands,CYM,2024,31935,North America
+Central African Republic,CAF,1990,67234,Africa
+Central African Republic,CAF,1995,99712,Africa
+Central African Republic,CAF,2000,123529,Africa
+Central African Republic,CAF,2005,96409,Africa
+Central African Republic,CAF,2010,94685,Africa
+Central African Republic,CAF,2015,81568,Africa
+Central African Republic,CAF,2020,88546,Africa
+Central African Republic,CAF,2024,94556,Africa
+Central America (UN),,1990,1835750,
+Central America (UN),,1995,1298418,
+Central America (UN),,2000,1095698,
+Central America (UN),,2005,1367196,
+Central America (UN),,2010,1738911,
+Central America (UN),,2015,1935255,
+Central America (UN),,2020,2439531,
+Central America (UN),,2024,3120680,
+Central Asia (UN),,1990,6300541,
+Central Asia (UN),,1995,4912782,
+Central Asia (UN),,2000,4048262,
+Central Asia (UN),,2005,3978487,
+Central Asia (UN),,2010,3786871,
+Central Asia (UN),,2015,3766652,
+Central Asia (UN),,2020,3822237,
+Central Asia (UN),,2024,3910116,
+Central and Southern Asia (UN),,1990,25456471,
+Central and Southern Asia (UN),,1995,20140424,
+Central and Southern Asia (UN),,2000,18979217,
+Central and Southern Asia (UN),,2005,17615413,
+Central and Southern Asia (UN),,2010,18225935,
+Central and Southern Asia (UN),,2015,17681574,
+Central and Southern Asia (UN),,2020,17736883,
+Central and Southern Asia (UN),,2024,20369652,
+Chad,TCD,1990,74342,Africa
+Chad,TCD,1995,89584,Africa
+Chad,TCD,2000,104825,Africa
+Chad,TCD,2005,352130,Africa
+Chad,TCD,2010,417034,Africa
+Chad,TCD,2015,466968,Africa
+Chad,TCD,2020,547494,Africa
+Chad,TCD,2024,1269673,Africa
+Channel Islands,OWID_CIS,1990,61660,
+Channel Islands,OWID_CIS,1995,60519,
+Channel Islands,OWID_CIS,2000,64301,
+Channel Islands,OWID_CIS,2005,70941,
+Channel Islands,OWID_CIS,2010,77581,
+Channel Islands,OWID_CIS,2015,82307,
+Channel Islands,OWID_CIS,2020,84087,
+Channel Islands,OWID_CIS,2024,85539,
+Chile,CHL,1990,100133,South America
+Chile,CHL,1995,125754,South America
+Chile,CHL,2000,166608,South America
+Chile,CHL,2005,241522,South America
+Chile,CHL,2010,361531,South America
+Chile,CHL,2015,598039,South America
+Chile,CHL,2020,1476240,South America
+Chile,CHL,2024,1538324,South America
+China,CHN,1990,518395,Asia
+China,CHN,1995,610608,Asia
+China,CHN,2000,720915,Asia
+China,CHN,2005,853360,Asia
+China,CHN,2010,1010008,Asia
+China,CHN,2015,1196007,Asia
+China,CHN,2020,1415116,Asia
+China,CHN,2024,1638718,Asia
+Colombia,COL,1990,100672,South America
+Colombia,COL,1995,109550,South America
+Colombia,COL,2000,109863,South America
+Colombia,COL,2005,110495,South America
+Colombia,COL,2010,126424,South America
+Colombia,COL,2015,145504,South America
+Colombia,COL,2020,1932807,South America
+Colombia,COL,2024,3063518,South America
+Comoros,COM,1990,14079,Africa
+Comoros,COM,1995,13939,Africa
+Comoros,COM,2000,13799,Africa
+Comoros,COM,2005,13209,Africa
+Comoros,COM,2010,12618,Africa
+Comoros,COM,2015,12555,Africa
+Comoros,COM,2020,12496,Africa
+Comoros,COM,2024,12449,Africa
+Congo,COG,1990,129391,Africa
+Congo,COG,1995,191635,Africa
+Congo,COG,2000,305880,Africa
+Congo,COG,2005,318724,Africa
+Congo,COG,2010,425173,Africa
+Congo,COG,2015,390142,Africa
+Congo,COG,2020,387606,Africa
+Congo,COG,2024,385589,Africa
+Costa Rica,CRI,1990,417628,North America
+Costa Rica,CRI,1995,364287,North America
+Costa Rica,CRI,2000,310946,North America
+Costa Rica,CRI,2005,358398,North America
+Costa Rica,CRI,2010,405779,North America
+Costa Rica,CRI,2015,411697,North America
+Costa Rica,CRI,2020,520729,North America
+Costa Rica,CRI,2024,628404,North America
+Cote d'Ivoire,CIV,1990,1822374,Africa
+Cote d'Ivoire,CIV,1995,1992981,Africa
+Cote d'Ivoire,CIV,2000,2157339,Africa
+Cote d'Ivoire,CIV,2005,2308068,Africa
+Cote d'Ivoire,CIV,2010,2458796,Africa
+Cote d'Ivoire,CIV,2015,2609525,Africa
+Cote d'Ivoire,CIV,2020,2760255,Africa
+Cote d'Ivoire,CIV,2024,2880839,Africa
+Croatia,HRV,1990,475438,Europe
+Croatia,HRV,1995,674085,Europe
+Croatia,HRV,2000,585298,Europe
+Croatia,HRV,2005,579273,Europe
+Croatia,HRV,2010,573248,Europe
+Croatia,HRV,2015,561093,Europe
+Croatia,HRV,2020,528056,Europe
+Croatia,HRV,2024,527831,Europe
+Cuba,CUB,1990,34555,North America
+Cuba,CUB,1995,26187,North America
+Cuba,CUB,2000,18545,North America
+Cuba,CUB,2005,11693,North America
+Cuba,CUB,2010,7373,North America
+Cuba,CUB,2015,4649,North America
+Cuba,CUB,2020,3024,North America
+Cuba,CUB,2024,2144,North America
+Curacao,CUW,1990,43150,North America
+Curacao,CUW,1995,43150,North America
+Curacao,CUW,2000,43150,North America
+Curacao,CUW,2005,43150,North America
+Curacao,CUW,2010,34630,North America
+Curacao,CUW,2015,37611,North America
+Curacao,CUW,2020,57210,North America
+Curacao,CUW,2024,80020,North America
+Cyprus,CYP,1990,43805,Europe
+Cyprus,CYP,1995,61941,Europe
+Cyprus,CYP,2000,80076,Europe
+Cyprus,CYP,2005,122849,Europe
+Cyprus,CYP,2010,188472,Europe
+Cyprus,CYP,2015,176693,Europe
+Cyprus,CYP,2020,190366,Europe
+Cyprus,CYP,2024,202062,Europe
+Czechia,CZE,1990,442428,Europe
+Czechia,CZE,1995,531039,Europe
+Czechia,CZE,2000,639018,Europe
+Czechia,CZE,2005,670689,Europe
+Czechia,CZE,2010,692197,Europe
+Czechia,CZE,2015,688047,Europe
+Czechia,CZE,2020,680221,Europe
+Czechia,CZE,2024,1025199,Europe
+Democratic Republic of Congo,COD,1990,754194,Africa
+Democratic Republic of Congo,COD,1995,1816963,Africa
+Democratic Republic of Congo,COD,2000,744387,Africa
+Democratic Republic of Congo,COD,2005,623009,Africa
+Democratic Republic of Congo,COD,2010,589882,Africa
+Democratic Republic of Congo,COD,2015,810018,Africa
+Democratic Republic of Congo,COD,2020,952871,Africa
+Democratic Republic of Congo,COD,2024,1085090,Africa
+Denmark,DNK,1990,235918,Europe
+Denmark,DNK,1995,298278,Europe
+Denmark,DNK,2000,372128,Europe
+Denmark,DNK,2005,423167,Europe
+Denmark,DNK,2010,509751,Europe
+Denmark,DNK,2015,616741,Europe
+Denmark,DNK,2020,718856,Europe
+Denmark,DNK,2024,847475,Europe
+Djibouti,DJI,1990,122221,Africa
+Djibouti,DJI,1995,99774,Africa
+Djibouti,DJI,2000,100507,Africa
+Djibouti,DJI,2005,92110,Africa
+Djibouti,DJI,2010,102307,Africa
+Djibouti,DJI,2015,112351,Africa
+Djibouti,DJI,2020,119738,Africa
+Djibouti,DJI,2024,125996,Africa
+Dominica,DMA,1990,2519,North America
+Dominica,DMA,1995,3121,North America
+Dominica,DMA,2000,3723,North America
+Dominica,DMA,2005,4744,North America
+Dominica,DMA,2010,8110,North America
+Dominica,DMA,2015,8093,North America
+Dominica,DMA,2020,8284,North America
+Dominica,DMA,2024,8440,North America
+Dominican Republic,DOM,1990,291151,North America
+Dominican Republic,DOM,1995,323381,North America
+Dominican Republic,DOM,2000,355611,North America
+Dominican Republic,DOM,2005,375417,North America
+Dominican Republic,DOM,2010,395479,North America
+Dominican Republic,DOM,2015,549289,North America
+Dominican Republic,DOM,2020,603794,North America
+Dominican Republic,DOM,2024,738667,North America
+East Timor,TLS,1990,8954,Asia
+East Timor,TLS,1995,9743,Asia
+East Timor,TLS,2000,10602,Asia
+East Timor,TLS,2005,11286,Asia
+East Timor,TLS,2010,11540,Asia
+East Timor,TLS,2015,8520,Asia
+East Timor,TLS,2020,8399,Asia
+East Timor,TLS,2024,8303,Asia
+Eastern Africa (UN),,1990,6347780,
+Eastern Africa (UN),,1995,5361041,
+Eastern Africa (UN),,2000,5239557,
+Eastern Africa (UN),,2005,5141624,
+Eastern Africa (UN),,2010,4424112,
+Eastern Africa (UN),,2015,6304660,
+Eastern Africa (UN),,2020,7528179,
+Eastern Africa (UN),,2024,8302733,
+Eastern Asia (UN),,1990,4118088,
+Eastern Asia (UN),,1995,4952397,
+Eastern Asia (UN),,2000,5921878,
+Eastern Asia (UN),,2005,6662116,
+Eastern Asia (UN),,2010,7484060,
+Eastern Asia (UN),,2015,9237513,
+Eastern Asia (UN),,2020,10919614,
+Eastern Asia (UN),,2024,11559387,
+Eastern Europe (UN),,1990,22316123,
+Eastern Europe (UN),,1995,21705675,
+Eastern Europe (UN),,2000,20853646,
+Eastern Europe (UN),,2005,20092493,
+Eastern Europe (UN),,2010,19389898,
+Eastern Europe (UN),,2015,17559211,
+Eastern Europe (UN),,2020,16162524,
+Eastern Europe (UN),,2024,18646093,
+Eastern and South-Eastern Asia (UN),,1990,6755128,
+Eastern and South-Eastern Asia (UN),,1995,8203094,
+Eastern and South-Eastern Asia (UN),,2000,10530525,
+Eastern and South-Eastern Asia (UN),,2005,12702261,
+Eastern and South-Eastern Asia (UN),,2010,16051107,
+Eastern and South-Eastern Asia (UN),,2015,18869062,
+Eastern and South-Eastern Asia (UN),,2020,21161853,
+Eastern and South-Eastern Asia (UN),,2024,22588980,
+Ecuador,ECU,1990,139204,South America
+Ecuador,ECU,1995,145626,South America
+Ecuador,ECU,2000,150585,South America
+Ecuador,ECU,2005,144415,South America
+Ecuador,ECU,2010,358874,South America
+Ecuador,ECU,2015,332142,South America
+Ecuador,ECU,2020,721560,South America
+Ecuador,ECU,2024,747749,South America
+Egypt,EGY,1990,144713,Africa
+Egypt,EGY,1995,160802,Africa
+Egypt,EGY,2000,179364,Africa
+Egypt,EGY,2005,288944,Africa
+Egypt,EGY,2010,323177,Africa
+Egypt,EGY,2015,499292,Africa
+Egypt,EGY,2020,602472,Africa
+Egypt,EGY,2024,1139820,Africa
+El Salvador,SLV,1990,47360,North America
+El Salvador,SLV,1995,39537,North America
+El Salvador,SLV,2000,31713,North America
+El Salvador,SLV,2005,36029,North America
+El Salvador,SLV,2010,40342,North America
+El Salvador,SLV,2015,42059,North America
+El Salvador,SLV,2020,42767,North America
+El Salvador,SLV,2024,43342,North America
+Equatorial Guinea,GNQ,1990,2740,Africa
+Equatorial Guinea,GNQ,1995,3629,Africa
+Equatorial Guinea,GNQ,2000,4517,Africa
+Equatorial Guinea,GNQ,2005,6588,Africa
+Equatorial Guinea,GNQ,2010,8658,Africa
+Equatorial Guinea,GNQ,2015,209611,Africa
+Equatorial Guinea,GNQ,2020,230618,Africa
+Equatorial Guinea,GNQ,2024,248930,Africa
+Eritrea,ERI,1990,11848,Africa
+Eritrea,ERI,1995,12400,Africa
+Eritrea,ERI,2000,12952,Africa
+Eritrea,ERI,2005,15905,Africa
+Eritrea,ERI,2010,15813,Africa
+Eritrea,ERI,2015,15941,Africa
+Eritrea,ERI,2020,13934,Africa
+Eritrea,ERI,2024,12512,Africa
+Estonia,EST,1990,381997,Europe
+Estonia,EST,1995,315755,Europe
+Estonia,EST,2000,249512,Europe
+Estonia,EST,2005,233701,Europe
+Estonia,EST,2010,217890,Europe
+Estonia,EST,2015,194664,Europe
+Estonia,EST,2020,199277,Europe
+Estonia,EST,2024,203046,Europe
+Eswatini,SWZ,1990,74991,Africa
+Eswatini,SWZ,1995,35157,Africa
+Eswatini,SWZ,2000,34084,Africa
+Eswatini,SWZ,2005,33392,Africa
+Eswatini,SWZ,2010,32637,Africa
+Eswatini,SWZ,2015,32352,Africa
+Eswatini,SWZ,2020,32858,Africa
+Eswatini,SWZ,2024,33268,Africa
+Ethiopia,ETH,1990,875325,Africa
+Ethiopia,ETH,1995,478712,Africa
+Ethiopia,ETH,2000,311441,Africa
+Ethiopia,ETH,2005,170773,Africa
+Ethiopia,ETH,2010,227078,Africa
+Ethiopia,ETH,2015,797374,Africa
+Ethiopia,ETH,2020,875170,Africa
+Ethiopia,ETH,2024,1168455,Africa
+Europe,OWID_EUR,1990,51447080,
+Europe,OWID_EUR,1995,56458023,
+Europe,OWID_EUR,2000,59200614,
+Europe,OWID_EUR,2005,65844990,
+Europe,OWID_EUR,2010,72620117,
+Europe,OWID_EUR,2015,75805539,
+Europe,OWID_EUR,2020,83078211,
+Europe,OWID_EUR,2024,94168026,
+Europe and Northern America (UN),,1990,79008202,
+Europe and Northern America (UN),,1995,89861179,
+Europe and Northern America (UN),,2000,99542834,
+Europe and Northern America (UN),,2005,111451697,
+Europe and Northern America (UN),,2010,123517093,
+Europe and Northern America (UN),,2015,131730220,
+Europe and Northern America (UN),,2020,141802488,
+Europe and Northern America (UN),,2024,155259380,
+European Union (27),OWID_EU27,1990,24649984,
+European Union (27),OWID_EU27,1995,29023930,
+European Union (27),OWID_EU27,2000,31944954,
+European Union (27),OWID_EU27,2005,38186192,
+European Union (27),OWID_EU27,2010,43690985,
+European Union (27),OWID_EU27,2015,47117669,
+European Union (27),OWID_EU27,2020,54404693,
+European Union (27),OWID_EU27,2024,63315939,
+Falkland Islands,FLK,1990,855,South America
+Falkland Islands,FLK,1995,868,South America
+Falkland Islands,FLK,2000,1067,South America
+Falkland Islands,FLK,2005,1166,South America
+Falkland Islands,FLK,2010,1436,South America
+Falkland Islands,FLK,2015,1571,South America
+Falkland Islands,FLK,2020,1957,South America
+Falkland Islands,FLK,2024,2333,South America
+Faroe Islands,FRO,1990,4285,Europe
+Faroe Islands,FRO,1995,2900,Europe
+Faroe Islands,FRO,2000,3593,Europe
+Faroe Islands,FRO,2005,4583,Europe
+Faroe Islands,FRO,2010,5096,Europe
+Faroe Islands,FRO,2015,5485,Europe
+Faroe Islands,FRO,2020,6812,Europe
+Faroe Islands,FRO,2024,8101,Europe
+Fiji,FJI,1990,13283,Oceania
+Fiji,FJI,1995,13001,Oceania
+Fiji,FJI,2000,12719,Oceania
+Fiji,FJI,2005,12434,Oceania
+Fiji,FJI,2010,13357,Oceania
+Fiji,FJI,2015,13751,Oceania
+Fiji,FJI,2020,14087,Oceania
+Fiji,FJI,2024,14362,Oceania
+Finland,FIN,1990,63255,Europe
+Finland,FIN,1995,99729,Europe
+Finland,FIN,2000,136203,Europe
+Finland,FIN,2005,192169,Europe
+Finland,FIN,2010,228481,Europe
+Finland,FIN,2015,314856,Europe
+Finland,FIN,2020,386052,Europe
+Finland,FIN,2024,514432,Europe
+France,FRA,1990,5890023,Europe
+France,FRA,1995,5936326,Europe
+France,FRA,2000,6141350,Europe
+France,FRA,2005,6839877,Europe
+France,FRA,2010,7322210,Europe
+France,FRA,2015,7978076,Europe
+France,FRA,2020,8610719,Europe
+France,FRA,2024,9186757,Europe
+French Guiana,GUF,1990,63612,South America
+French Guiana,GUF,1995,70131,South America
+French Guiana,GUF,2000,76649,South America
+French Guiana,GUF,2005,86468,South America
+French Guiana,GUF,2010,96288,South America
+French Guiana,GUF,2015,106108,South America
+French Guiana,GUF,2020,119249,South America
+French Guiana,GUF,2024,130924,South America
+French Polynesia,PYF,1990,25830,Oceania
+French Polynesia,PYF,1995,28360,Oceania
+French Polynesia,PYF,2000,30329,Oceania
+French Polynesia,PYF,2005,32286,Oceania
+French Polynesia,PYF,2010,31640,Oceania
+French Polynesia,PYF,2015,30058,Oceania
+French Polynesia,PYF,2020,30081,Oceania
+French Polynesia,PYF,2024,30099,Oceania
+Gabon,GAB,1990,128188,Africa
+Gabon,GAB,1995,171427,Africa
+Gabon,GAB,2000,214431,Africa
+Gabon,GAB,2005,233824,Africa
+Gabon,GAB,2010,270829,Africa
+Gabon,GAB,2015,378686,Africa
+Gabon,GAB,2020,416651,Africa
+Gabon,GAB,2024,449746,Africa
+Gambia,GMB,1990,118123,Africa
+Gambia,GMB,1995,150890,Africa
+Gambia,GMB,2000,182514,Africa
+Gambia,GMB,2005,181839,Africa
+Gambia,GMB,2010,185837,Africa
+Gambia,GMB,2015,192540,Africa
+Gambia,GMB,2020,215659,Africa
+Gambia,GMB,2024,236137,Africa
+Georgia,GEO,1990,304470,Asia
+Georgia,GEO,1995,152235,Asia
+Georgia,GEO,2000,76117,Asia
+Georgia,GEO,2005,71296,Asia
+Georgia,GEO,2010,73078,Asia
+Georgia,GEO,2015,76685,Asia
+Georgia,GEO,2020,79368,Asia
+Georgia,GEO,2024,81582,Asia
+Germany,DEU,1990,6960112,Europe
+Germany,DEU,1995,9637208,Europe
+Germany,DEU,2000,10397459,Europe
+Germany,DEU,2005,11210590,Europe
+Germany,DEU,2010,11665950,Europe
+Germany,DEU,2015,12646813,Europe
+Germany,DEU,2020,15021300,Europe
+Germany,DEU,2024,16750084,Europe
+Ghana,GHA,1990,164851,Africa
+Ghana,GHA,1995,252879,Africa
+Ghana,GHA,2000,191601,Africa
+Ghana,GHA,2005,309932,Africa
+Ghana,GHA,2010,337766,Africa
+Ghana,GHA,2015,414744,Africa
+Ghana,GHA,2020,476412,Africa
+Ghana,GHA,2024,532286,Africa
+Gibraltar,GIB,1990,8709,Europe
+Gibraltar,GIB,1995,8381,Europe
+Gibraltar,GIB,2000,8054,Europe
+Gibraltar,GIB,2005,9211,Europe
+Gibraltar,GIB,2010,10369,Europe
+Gibraltar,GIB,2015,11065,Europe
+Gibraltar,GIB,2020,11190,Europe
+Gibraltar,GIB,2024,11291,Europe
+Greece,GRC,1990,618139,Europe
+Greece,GRC,1995,857850,Europe
+Greece,GRC,2000,1111665,Europe
+Greece,GRC,2005,1190707,Europe
+Greece,GRC,2010,1321149,Europe
+Greece,GRC,2015,1242924,Europe
+Greece,GRC,2020,1340456,Europe
+Greece,GRC,2024,1423964,Europe
+Greenland,GRL,1990,9282,North America
+Greenland,GRL,1995,7121,North America
+Greenland,GRL,2000,6601,North America
+Greenland,GRL,2005,6556,North America
+Greenland,GRL,2010,6091,North America
+Greenland,GRL,2015,6009,North America
+Greenland,GRL,2020,5899,North America
+Greenland,GRL,2024,5812,North America
+Grenada,GRD,1990,4263,North America
+Grenada,GRD,1995,5544,North America
+Grenada,GRD,2000,6825,North America
+Grenada,GRD,2005,6902,North America
+Grenada,GRD,2010,6980,North America
+Grenada,GRD,2015,7057,North America
+Grenada,GRD,2020,7213,North America
+Grenada,GRD,2024,7340,North America
+Guadeloupe,GLP,1990,65944,North America
+Guadeloupe,GLP,1995,74566,North America
+Guadeloupe,GLP,2000,83188,North America
+Guadeloupe,GLP,2005,89065,North America
+Guadeloupe,GLP,2010,94942,North America
+Guadeloupe,GLP,2015,90956,North America
+Guadeloupe,GLP,2020,90206,North America
+Guadeloupe,GLP,2024,89610,North America
+Guam,GUM,1990,69755,Oceania
+Guam,GUM,1995,71912,Oceania
+Guam,GUM,2000,74070,Oceania
+Guam,GUM,2005,74743,Oceania
+Guam,GUM,2010,75416,Oceania
+Guam,GUM,2015,76089,Oceania
+Guam,GUM,2020,80472,Oceania
+Guam,GUM,2024,84159,Oceania
+Guatemala,GTM,1990,264257,North America
+Guatemala,GTM,1995,156188,North America
+Guatemala,GTM,2000,48119,North America
+Guatemala,GTM,2005,57214,North America
+Guatemala,GTM,2010,66386,North America
+Guatemala,GTM,2015,74852,North America
+Guatemala,GTM,2020,84311,North America
+Guatemala,GTM,2024,92732,North America
+Guinea,GIN,1990,403621,Africa
+Guinea,GIN,1995,774505,Africa
+Guinea,GIN,2000,560075,Africa
+Guinea,GIN,2005,233419,Africa
+Guinea,GIN,2010,178762,Africa
+Guinea,GIN,2015,126657,Africa
+Guinea,GIN,2020,121437,Africa
+Guinea,GIN,2024,117416,Africa
+Guinea-Bissau,GNB,1990,15368,Africa
+Guinea-Bissau,GNB,1995,27961,Africa
+Guinea-Bissau,GNB,2000,20450,Africa
+Guinea-Bissau,GNB,2005,20902,Africa
+Guinea-Bissau,GNB,2010,21391,Africa
+Guinea-Bissau,GNB,2015,22333,Africa
+Guinea-Bissau,GNB,2020,17945,Africa
+Guinea-Bissau,GNB,2024,15064,Africa
+Guyana,GUY,1990,4095,South America
+Guyana,GUY,1995,6352,South America
+Guyana,GUY,2000,8610,South America
+Guyana,GUY,2005,10868,South America
+Guyana,GUY,2010,8182,South America
+Guyana,GUY,2015,8661,South America
+Guyana,GUY,2020,31169,South America
+Guyana,GUY,2024,54175,South America
+Haiti,HTI,1990,19084,North America
+Haiti,HTI,1995,18129,North America
+Haiti,HTI,2000,17222,North America
+Haiti,HTI,2005,16360,North America
+Haiti,HTI,2010,17182,North America
+Haiti,HTI,2015,18047,North America
+Haiti,HTI,2020,18884,North America
+Haiti,HTI,2024,19581,North America
+High-income countries,OWID_HIC,1990,88815102,
+High-income countries,OWID_HIC,1995,102522967,
+High-income countries,OWID_HIC,2000,116020954,
+High-income countries,OWID_HIC,2005,133462345,
+High-income countries,OWID_HIC,2010,155100752,
+High-income countries,OWID_HIC,2015,174885920,
+High-income countries,OWID_HIC,2020,189555073,
+High-income countries,OWID_HIC,2024,207271965,
+Honduras,HND,1990,270423,North America
+Honduras,HND,1995,149442,North America
+Honduras,HND,2000,28461,North America
+Honduras,HND,2005,27934,North America
+Honduras,HND,2010,27288,North America
+Honduras,HND,2015,38330,North America
+Honduras,HND,2020,39195,North America
+Honduras,HND,2024,39901,North America
+Hong Kong,HKG,1990,2218473,Asia
+Hong Kong,HKG,1995,2443798,Asia
+Hong Kong,HKG,2000,2669122,Asia
+Hong Kong,HKG,2005,2721235,Asia
+Hong Kong,HKG,2010,2779950,Asia
+Hong Kong,HKG,2015,2841113,Asia
+Hong Kong,HKG,2020,2962492,Asia
+Hong Kong,HKG,2024,3063318,Asia
+Hungary,HUN,1990,347510,Europe
+Hungary,HUN,1995,322234,Europe
+Hungary,HUN,2000,296957,Europe
+Hungary,HUN,2005,366787,Europe
+Hungary,HUN,2010,436616,Europe
+Hungary,HUN,2015,475508,Europe
+Hungary,HUN,2020,584567,Europe
+Hungary,HUN,2024,689565,Europe
+Iceland,ISL,1990,9584,Europe
+Iceland,ISL,1995,12738,Europe
+Iceland,ISL,2000,15892,Europe
+Iceland,ISL,2005,25492,Europe
+Iceland,ISL,2010,35091,Europe
+Iceland,ISL,2015,39072,Europe
+Iceland,ISL,2020,65424,Europe
+Iceland,ISL,2024,98818,Europe
+India,IND,1990,7212791,Asia
+India,IND,1995,6836861,Asia
+India,IND,2000,6391543,Asia
+India,IND,2005,5954999,Asia
+India,IND,2010,5601237,Asia
+India,IND,2015,5252296,Asia
+India,IND,2020,4929816,Asia
+India,IND,2024,4796255,Asia
+Indonesia,IDN,1990,92058,Asia
+Indonesia,IDN,1995,114419,Asia
+Indonesia,IDN,2000,287645,Asia
+Indonesia,IDN,2005,87508,Asia
+Indonesia,IDN,2010,113288,Asia
+Indonesia,IDN,2015,192119,Asia
+Indonesia,IDN,2020,306702,Asia
+Indonesia,IDN,2024,445726,Asia
+Iran,IRN,1990,4291601,Asia
+Iran,IRN,1995,2937668,Asia
+Iran,IRN,2000,2476469,Asia
+Iran,IRN,2005,2552206,Asia
+Iran,IRN,2010,2722397,Asia
+Iran,IRN,2015,2729939,Asia
+Iran,IRN,2020,2797235,Asia
+Iran,IRN,2024,3840654,Asia
+Iraq,IRQ,1990,83638,Asia
+Iraq,IRQ,1995,199460,Asia
+Iraq,IRQ,2000,210525,Asia
+Iraq,IRQ,2005,134863,Asia
+Iraq,IRQ,2010,120466,Asia
+Iraq,IRQ,2015,359352,Asia
+Iraq,IRQ,2020,365766,Asia
+Iraq,IRQ,2024,370980,Asia
+Ireland,IRL,1990,227783,Europe
+Ireland,IRL,1995,247379,Europe
+Ireland,IRL,2000,376321,Europe
+Ireland,IRL,2005,620579,Europe
+Ireland,IRL,2010,751381,Europe
+Ireland,IRL,2015,802470,Europe
+Ireland,IRL,2020,951686,Europe
+Ireland,IRL,2024,1216237,Europe
+Isle of Man,IMN,1990,34769,Europe
+Isle of Man,IMN,1995,36886,Europe
+Isle of Man,IMN,2000,39002,Europe
+Isle of Man,IMN,2005,41475,Europe
+Isle of Man,IMN,2010,43447,Europe
+Isle of Man,IMN,2015,42238,Europe
+Isle of Man,IMN,2020,43040,Europe
+Isle of Man,IMN,2024,43693,Europe
+Israel,ISR,1990,1622505,Asia
+Israel,ISR,1995,1781111,Asia
+Israel,ISR,2000,1838155,Asia
+Israel,ISR,2005,1881017,Asia
+Israel,ISR,2010,1953214,Asia
+Israel,ISR,2015,2019891,Asia
+Israel,ISR,2020,2068830,Asia
+Israel,ISR,2024,2091569,Asia
+Italy,ITA,1990,1529367,Europe
+Italy,ITA,1995,1810642,Europe
+Italy,ITA,2000,2143259,Europe
+Italy,ITA,2005,3285903,Europe
+Italy,ITA,2010,4719233,Europe
+Italy,ITA,2015,5506199,Europe
+Italy,ITA,2020,6223851,Europe
+Italy,ITA,2024,6553671,Europe
+Jamaica,JAM,1990,20475,North America
+Jamaica,JAM,1995,22713,North America
+Jamaica,JAM,2000,24952,North America
+Jamaica,JAM,2005,24284,North America
+Jamaica,JAM,2010,23677,North America
+Jamaica,JAM,2015,23165,North America
+Jamaica,JAM,2020,23629,North America
+Jamaica,JAM,2024,24007,North America
+Japan,JPN,1990,1050475,Asia
+Japan,JPN,1995,1331094,Asia
+Japan,JPN,2000,1651869,Asia
+Japan,JPN,2005,1976528,Asia
+Japan,JPN,2010,2161780,Asia
+Japan,JPN,2015,2577487,Asia
+Japan,JPN,2020,3289042,Asia
+Japan,JPN,2024,3409529,Asia
+Jordan,JOR,1990,1131529,Asia
+Jordan,JOR,1995,1511664,Asia
+Jordan,JOR,2000,1834160,Asia
+Jordan,JOR,2005,2229368,Asia
+Jordan,JOR,2010,3723368,Asia
+Jordan,JOR,2015,4386976,Asia
+Jordan,JOR,2020,4940142,Asia
+Jordan,JOR,2024,5280168,Asia
+Kazakhstan,KAZ,1990,3289058,Asia
+Kazakhstan,KAZ,1995,2259955,Asia
+Kazakhstan,KAZ,2000,1733374,Asia
+Kazakhstan,KAZ,2005,1845637,Asia
+Kazakhstan,KAZ,2010,1856870,Asia
+Kazakhstan,KAZ,2015,1919920,Asia
+Kazakhstan,KAZ,2020,1990268,Asia
+Kazakhstan,KAZ,2024,2089797,Asia
+Kenya,KEN,1990,298089,Africa
+Kenya,KEN,1995,618745,Africa
+Kenya,KEN,2000,707852,Africa
+Kenya,KEN,2005,773354,Africa
+Kenya,KEN,2010,954925,Africa
+Kenya,KEN,2015,1126886,Africa
+Kenya,KEN,2020,1050147,Africa
+Kenya,KEN,2024,992536,Africa
+Kiribati,KIR,1990,2162,Oceania
+Kiribati,KIR,1995,2223,Oceania
+Kiribati,KIR,2000,2283,Oceania
+Kiribati,KIR,2005,2487,Oceania
+Kiribati,KIR,2010,2868,Oceania
+Kiribati,KIR,2015,2919,Oceania
+Kiribati,KIR,2020,3126,Oceania
+Kiribati,KIR,2024,3302,Oceania
+Kuwait,KWT,1990,1056143,Asia
+Kuwait,KWT,1995,935152,Asia
+Kuwait,KWT,2000,1116932,Asia
+Kuwait,KWT,2005,1353949,Asia
+Kuwait,KWT,2010,1871827,Asia
+Kuwait,KWT,2015,2610785,Asia
+Kuwait,KWT,2020,3030731,Asia
+Kuwait,KWT,2024,3323191,Asia
+Kyrgyzstan,KGZ,1990,623083,Asia
+Kyrgyzstan,KGZ,1995,518338,Asia
+Kyrgyzstan,KGZ,2000,389824,Asia
+Kyrgyzstan,KGZ,2005,309399,Asia
+Kyrgyzstan,KGZ,2010,232065,Asia
+Kyrgyzstan,KGZ,2015,204382,Asia
+Kyrgyzstan,KGZ,2020,199011,Asia
+Kyrgyzstan,KGZ,2024,194816,Asia
+Land-locked Developing Countries (LLDC),,1990,14076862,
+Land-locked Developing Countries (LLDC),,1995,11932094,
+Land-locked Developing Countries (LLDC),,2000,10884070,
+Land-locked Developing Countries (LLDC),,2005,10682465,
+Land-locked Developing Countries (LLDC),,2010,9776704,
+Land-locked Developing Countries (LLDC),,2015,11758049,
+Land-locked Developing Countries (LLDC),,2020,13062602,
+Land-locked Developing Countries (LLDC),,2024,14973951,
+Laos,LAO,1990,22866,Asia
+Laos,LAO,1995,23526,Asia
+Laos,LAO,2000,21948,Asia
+Laos,LAO,2005,20371,Asia
+Laos,LAO,2010,32955,Asia
+Laos,LAO,2015,45538,Asia
+Laos,LAO,2020,48731,Asia
+Laos,LAO,2024,51446,Asia
+Latin America and the Caribbean (UN),UN_LAC,1990,7253323,
+Latin America and the Caribbean (UN),UN_LAC,1995,6728705,
+Latin America and the Caribbean (UN),UN_LAC,2000,6589509,
+Latin America and the Caribbean (UN),UN_LAC,2005,7111817,
+Latin America and the Caribbean (UN),UN_LAC,2010,8275866,
+Latin America and the Caribbean (UN),UN_LAC,2015,9109959,
+Latin America and the Caribbean (UN),UN_LAC,2020,14287765,
+Latin America and the Caribbean (UN),UN_LAC,2024,17510527,
+Latvia,LVA,1990,646007,Europe
+Latvia,LVA,1995,538093,Europe
+Latvia,LVA,2000,430178,Europe
+Latvia,LVA,2005,376725,Europe
+Latvia,LVA,2010,313786,Europe
+Latvia,LVA,2015,265418,Europe
+Latvia,LVA,2020,239422,Europe
+Latvia,LVA,2024,220471,Europe
+Lebanon,LBN,1990,424488,Asia
+Lebanon,LBN,1995,466437,Asia
+Lebanon,LBN,2000,514836,Asia
+Lebanon,LBN,2005,553850,Asia
+Lebanon,LBN,2010,625884,Asia
+Lebanon,LBN,2015,1763717,Asia
+Lebanon,LBN,2020,1586346,Asia
+Lebanon,LBN,2024,1422583,Asia
+Lesotho,LSO,1990,8240,Africa
+Lesotho,LSO,1995,7204,Africa
+Lesotho,LSO,2000,6167,Africa
+Lesotho,LSO,2005,6290,Africa
+Lesotho,LSO,2010,6414,Africa
+Lesotho,LSO,2015,9152,Africa
+Lesotho,LSO,2020,12060,Africa
+Lesotho,LSO,2024,15039,Africa
+Liberia,LBR,1990,94964,Africa
+Liberia,LBR,1995,208563,Africa
+Liberia,LBR,2000,151868,Africa
+Liberia,LBR,2005,87217,Africa
+Liberia,LBR,2010,99165,Africa
+Liberia,LBR,2015,112111,Africa
+Liberia,LBR,2020,87947,Africa
+Liberia,LBR,2024,72423,Africa
+Libya,LBY,1990,457075,Africa
+Libya,LBY,1995,508041,Africa
+Libya,LBY,2000,567436,Africa
+Libya,LBY,2005,625412,Africa
+Libya,LBY,2010,687192,Africa
+Libya,LBY,2015,771146,Africa
+Libya,LBY,2020,826537,Africa
+Libya,LBY,2024,897751,Africa
+Liechtenstein,LIE,1990,10906,Europe
+Liechtenstein,LIE,1995,13311,Europe
+Liechtenstein,LIE,2000,15483,Europe
+Liechtenstein,LIE,2005,18898,Europe
+Liechtenstein,LIE,2010,22342,Europe
+Liechtenstein,LIE,2015,23799,Europe
+Liechtenstein,LIE,2020,25877,Europe
+Liechtenstein,LIE,2024,27669,Europe
+Lithuania,LTU,1990,349258,Europe
+Lithuania,LTU,1995,273587,Europe
+Lithuania,LTU,2000,214311,Europe
+Lithuania,LTU,2005,201209,Europe
+Lithuania,LTU,2010,160772,Europe
+Lithuania,LTU,2015,136021,Europe
+Lithuania,LTU,2020,145184,Europe
+Lithuania,LTU,2024,175194,Europe
+Low-income countries,OWID_LIC,1990,8645422,
+Low-income countries,OWID_LIC,1995,8136525,
+Low-income countries,OWID_LIC,2000,6700405,
+Low-income countries,OWID_LIC,2005,6846410,
+Low-income countries,OWID_LIC,2010,7730345,
+Low-income countries,OWID_LIC,2015,9232298,
+Low-income countries,OWID_LIC,2020,11381133,
+Low-income countries,OWID_LIC,2024,14101623,
+Lower-middle-income countries,OWID_LMC,1990,26039578,
+Lower-middle-income countries,OWID_LMC,1995,24335769,
+Lower-middle-income countries,OWID_LMC,2000,24204379,
+Lower-middle-income countries,OWID_LMC,2005,23244095,
+Lower-middle-income countries,OWID_LMC,2010,24382222,
+Lower-middle-income countries,OWID_LMC,2015,26233996,
+Lower-middle-income countries,OWID_LMC,2020,26755872,
+Lower-middle-income countries,OWID_LMC,2024,29108273,
+Luxembourg,LUX,1990,113795,Europe
+Luxembourg,LUX,1995,126106,Europe
+Luxembourg,LUX,2000,139750,Europe
+Luxembourg,LUX,2005,150618,Europe
+Luxembourg,LUX,2010,163142,Europe
+Luxembourg,LUX,2015,248888,Europe
+Luxembourg,LUX,2020,298062,Europe
+Luxembourg,LUX,2024,344309,Europe
+Macao,MAC,1990,205047,Asia
+Macao,MAC,1995,224929,Asia
+Macao,MAC,2000,240791,Asia
+Macao,MAC,2005,279308,Asia
+Macao,MAC,2010,318506,Asia
+Macao,MAC,2015,376066,Asia
+Macao,MAC,2020,403490,Asia
+Macao,MAC,2024,426862,Asia
+Madagascar,MDG,1990,23917,Africa
+Madagascar,MDG,1995,21177,Africa
+Madagascar,MDG,2000,23541,Africa
+Madagascar,MDG,2005,26058,Africa
+Madagascar,MDG,2010,28905,Africa
+Madagascar,MDG,2015,32075,Africa
+Madagascar,MDG,2020,35563,Africa
+Madagascar,MDG,2024,38625,Africa
+Malawi,MWI,1990,1127724,Africa
+Malawi,MWI,1995,241624,Africa
+Malawi,MWI,2000,232620,Africa
+Malawi,MWI,2005,221661,Africa
+Malawi,MWI,2010,217722,Africa
+Malawi,MWI,2015,197328,Africa
+Malawi,MWI,2020,191362,Africa
+Malawi,MWI,2024,186719,Africa
+Malaysia,MYS,1990,1027572,Asia
+Malaysia,MYS,1995,1312828,Asia
+Malaysia,MYS,2000,1613819,Asia
+Malaysia,MYS,2005,2174308,Asia
+Malaysia,MYS,2010,3086876,Asia
+Malaysia,MYS,2015,3513497,Asia
+Malaysia,MYS,2020,3718696,Asia
+Malaysia,MYS,2024,3806514,Asia
+Maldives,MDV,1990,8689,Asia
+Maldives,MDV,1995,18510,Asia
+Maldives,MDV,2000,27092,Asia
+Maldives,MDV,2005,45045,Asia
+Maldives,MDV,2010,54659,Asia
+Maldives,MDV,2015,64273,Asia
+Maldives,MDV,2020,70079,Asia
+Maldives,MDV,2024,75099,Asia
+Mali,MLI,1990,160736,Africa
+Mali,MLI,1995,176187,Africa
+Mali,MLI,2000,189475,Africa
+Mali,MLI,2005,258630,Africa
+Mali,MLI,2010,341078,Africa
+Mali,MLI,2015,420504,Africa
+Mali,MLI,2020,485829,Africa
+Mali,MLI,2024,545323,Africa
+Malta,MLT,1990,15077,Europe
+Malta,MLT,1995,17740,Europe
+Malta,MLT,2000,21521,Europe
+Malta,MLT,2005,24560,Europe
+Malta,MLT,2010,33008,Europe
+Malta,MLT,2015,52642,Europe
+Malta,MLT,2020,114760,Europe
+Malta,MLT,2024,199466,Europe
+Marshall Islands,MHL,1990,1158,Oceania
+Marshall Islands,MHL,1995,1480,Oceania
+Marshall Islands,MHL,2000,1891,Oceania
+Marshall Islands,MHL,2005,2417,Oceania
+Marshall Islands,MHL,2010,3089,Oceania
+Marshall Islands,MHL,2015,3284,Oceania
+Marshall Islands,MHL,2020,3298,Oceania
+Marshall Islands,MHL,2024,3309,Oceania
+Martinique,MTQ,1990,38705,North America
+Martinique,MTQ,1995,46599,North America
+Martinique,MTQ,2000,54492,North America
+Martinique,MTQ,2005,57034,North America
+Martinique,MTQ,2010,59575,North America
+Martinique,MTQ,2015,69174,North America
+Martinique,MTQ,2020,68624,North America
+Martinique,MTQ,2024,68187,North America
+Mauritania,MRT,1990,111650,Africa
+Mauritania,MRT,1995,89562,Africa
+Mauritania,MRT,2000,57366,Africa
+Mauritania,MRT,2005,58211,Africa
+Mauritania,MRT,2010,84920,Africa
+Mauritania,MRT,2015,166552,Africa
+Mauritania,MRT,2020,182286,Africa
+Mauritania,MRT,2024,195937,Africa
+Mauritius,MUS,1990,3613,Africa
+Mauritius,MUS,1995,7493,Africa
+Mauritius,MUS,2000,15543,Africa
+Mauritius,MUS,2005,19647,Africa
+Mauritius,MUS,2010,24836,Africa
+Mauritius,MUS,2015,28585,Africa
+Mauritius,MUS,2020,28893,Africa
+Mauritius,MUS,2024,29142,Africa
+Mayotte,MYT,1990,15229,Africa
+Mayotte,MYT,1995,26316,Africa
+Mayotte,MYT,2000,45474,Africa
+Mayotte,MYT,2005,63176,Africa
+Mayotte,MYT,2010,72757,Africa
+Mayotte,MYT,2015,81386,Africa
+Mayotte,MYT,2020,111540,Africa
+Mayotte,MYT,2024,143528,Africa
+Melanesia,OWID_MNS,1990,91200,
+Melanesia,OWID_MNS,1995,96828,
+Melanesia,OWID_MNS,2000,95281,
+Melanesia,OWID_MNS,2005,103881,
+Melanesia,OWID_MNS,2010,110691,
+Melanesia,OWID_MNS,2015,119343,
+Melanesia,OWID_MNS,2020,124073,
+Melanesia,OWID_MNS,2024,128055,
+Mexico,MEX,1990,701513,North America
+Mexico,MEX,1995,458051,North America
+Mexico,MEX,2000,526172,North America
+Mexico,MEX,2005,701803,North America
+Mexico,MEX,2010,957593,North America
+Mexico,MEX,2015,1088731,North America
+Mexico,MEX,2020,1335154,North America
+Mexico,MEX,2024,1726089,North America
+Micronesia,,1990,108969,
+Micronesia,,1995,118687,
+Micronesia,,2000,130186,
+Micronesia,,2005,128390,
+Micronesia,,2010,114743,
+Micronesia,,2015,113466,
+Micronesia,,2020,118860,
+Micronesia,,2024,123424,
+Micronesia (country),FSM,1990,3685,Oceania
+Micronesia (country),FSM,1995,3342,Oceania
+Micronesia (country),FSM,2000,3116,Oceania
+Micronesia (country),FSM,2005,2905,Oceania
+Micronesia (country),FSM,2010,2806,Oceania
+Micronesia (country),FSM,2015,2756,Oceania
+Micronesia (country),FSM,2020,2832,Oceania
+Micronesia (country),FSM,2024,2894,Oceania
+Middle Africa (UN),,1990,1461155,
+Middle Africa (UN),,1995,2662490,
+Middle Africa (UN),,2000,1775284,
+Middle Africa (UN),,2005,1961951,
+Middle Africa (UN),,2010,2436802,
+Middle Africa (UN),,2015,3479911,
+Middle Africa (UN),,2020,3861568,
+Middle Africa (UN),,2024,4854994,
+Moldova,MDA,1990,533397,Europe
+Moldova,MDA,1995,365099,Europe
+Moldova,MDA,2000,250134,Europe
+Moldova,MDA,2005,174263,Europe
+Moldova,MDA,2010,132386,Europe
+Moldova,MDA,2015,101730,Europe
+Moldova,MDA,2020,77291,Europe
+Moldova,MDA,2024,188207,Europe
+Monaco,MCO,1990,20359,Europe
+Monaco,MCO,1995,21060,Europe
+Monaco,MCO,2000,21787,Europe
+Monaco,MCO,2005,21312,Europe
+Monaco,MCO,2010,21132,Europe
+Monaco,MCO,2015,25983,Europe
+Monaco,MCO,2020,26601,Europe
+Monaco,MCO,2024,27106,Europe
+Mongolia,MNG,1990,6718,Asia
+Mongolia,MNG,1995,7424,Asia
+Mongolia,MNG,2000,8206,Asia
+Mongolia,MNG,2005,11477,Asia
+Mongolia,MNG,2010,16062,Asia
+Mongolia,MNG,2015,19886,Asia
+Mongolia,MNG,2020,21345,Asia
+Mongolia,MNG,2024,22589,Asia
+Montenegro,MNE,1990,73743,Europe
+Montenegro,MNE,1995,73743,Europe
+Montenegro,MNE,2000,73743,Europe
+Montenegro,MNE,2005,73743,Europe
+Montenegro,MNE,2010,78512,Europe
+Montenegro,MNE,2015,71719,Europe
+Montenegro,MNE,2020,70999,Europe
+Montenegro,MNE,2024,92237,Europe
+Montserrat,MSR,1990,2013,North America
+Montserrat,MSR,1995,1612,North America
+Montserrat,MSR,2000,1211,North America
+Montserrat,MSR,2005,1244,North America
+Montserrat,MSR,2010,1291,North America
+Montserrat,MSR,2015,1351,North America
+Montserrat,MSR,2020,1379,North America
+Montserrat,MSR,2024,1402,North America
+Morocco,MAR,1990,54895,Africa
+Morocco,MAR,1995,50360,Africa
+Morocco,MAR,2000,53034,Africa
+Morocco,MAR,2005,56222,Africa
+Morocco,MAR,2010,71189,Africa
+Morocco,MAR,2015,92424,Africa
+Morocco,MAR,2020,102358,Africa
+Morocco,MAR,2024,111069,Africa
+Mozambique,MOZ,1990,122332,Africa
+Mozambique,MOZ,1995,168256,Africa
+Mozambique,MOZ,2000,195702,Africa
+Mozambique,MOZ,2005,268694,Africa
+Mozambique,MOZ,2010,306471,Africa
+Mozambique,MOZ,2015,321794,Africa
+Mozambique,MOZ,2020,338850,Africa
+Mozambique,MOZ,2024,353143,Africa
+Myanmar,MMR,1990,133545,Asia
+Myanmar,MMR,1995,113663,Asia
+Myanmar,MMR,2000,98011,Asia
+Myanmar,MMR,2005,83025,Asia
+Myanmar,MMR,2010,76414,Asia
+Myanmar,MMR,2015,73309,Asia
+Myanmar,MMR,2020,76446,Asia
+Myanmar,MMR,2024,79052,Asia
+Namibia,NAM,1990,120641,Africa
+Namibia,NAM,1995,115372,Africa
+Namibia,NAM,2000,135547,Africa
+Namibia,NAM,2005,107347,Africa
+Namibia,NAM,2010,103826,Africa
+Namibia,NAM,2015,101618,Africa
+Namibia,NAM,2020,109391,Africa
+Namibia,NAM,2024,116035,Africa
+Nauru,NRU,1990,2815,Oceania
+Nauru,NRU,1995,2605,Oceania
+Nauru,NRU,2000,2394,Oceania
+Nauru,NRU,2005,2253,Oceania
+Nauru,NRU,2010,906,Oceania
+Nauru,NRU,2015,1833,Oceania
+Nauru,NRU,2020,2201,Oceania
+Nauru,NRU,2024,2548,Oceania
+Nepal,NPL,1990,429974,Asia
+Nepal,NPL,1995,690225,Asia
+Nepal,NPL,2000,717900,Asia
+Nepal,NPL,2005,680729,Asia
+Nepal,NPL,2010,581889,Asia
+Nepal,NPL,2015,509471,Asia
+Nepal,NPL,2020,487564,Asia
+Nepal,NPL,2024,470719,Asia
+Netherlands,NLD,1990,1194306,Europe
+Netherlands,NLD,1995,1397371,Europe
+Netherlands,NLD,2000,1584638,Europe
+Netherlands,NLD,2005,1735632,Europe
+Netherlands,NLD,2010,1850649,Europe
+Netherlands,NLD,2015,2024059,Europe
+Netherlands,NLD,2020,2425521,Europe
+Netherlands,NLD,2024,2956518,Europe
+New Caledonia,NCL,1990,37673,Oceania
+New Caledonia,NCL,1995,43662,Oceania
+New Caledonia,NCL,2000,49651,Oceania
+New Caledonia,NCL,2005,55405,Oceania
+New Caledonia,NCL,2010,61158,Oceania
+New Caledonia,NCL,2015,68881,Oceania
+New Caledonia,NCL,2020,73141,Oceania
+New Caledonia,NCL,2024,76738,Oceania
+New Zealand,NZL,1990,526369,Oceania
+New Zealand,NZL,1995,594911,Oceania
+New Zealand,NZL,2000,685966,Oceania
+New Zealand,NZL,2005,855017,Oceania
+New Zealand,NZL,2010,956982,Oceania
+New Zealand,NZL,2015,1132201,Oceania
+New Zealand,NZL,2020,1343900,Oceania
+New Zealand,NZL,2024,1467989,Oceania
+Nicaragua,NIC,1990,41421,North America
+Nicaragua,NIC,1995,26619,North America
+Nicaragua,NIC,2000,30389,North America
+Nicaragua,NIC,2005,34919,North America
+Nicaragua,NIC,2010,37345,North America
+Nicaragua,NIC,2015,40261,North America
+Nicaragua,NIC,2020,42167,North America
+Nicaragua,NIC,2024,43757,North America
+Niger,NER,1990,115464,Africa
+Niger,NER,1995,145999,Africa
+Niger,NER,2000,122260,Africa
+Niger,NER,2005,124509,Africa
+Niger,NER,2010,126482,Africa
+Niger,NER,2015,252998,Africa
+Niger,NER,2020,348056,Africa
+Niger,NER,2024,449236,Africa
+Nigeria,NGA,1990,456621,Africa
+Nigeria,NGA,1995,462999,Africa
+Nigeria,NGA,2000,487882,Africa
+Nigeria,NGA,2005,969714,Africa
+Nigeria,NGA,2010,990494,Africa
+Nigeria,NGA,2015,1199115,Africa
+Nigeria,NGA,2020,1308568,Africa
+Nigeria,NGA,2024,1403281,Africa
+North America,OWID_NAM,1990,30477031,
+North America,OWID_NAM,1995,35889977,
+North America,OWID_NAM,2000,42737422,
+North America,OWID_NAM,2005,48347273,
+North America,OWID_NAM,2010,54085289,
+North America,OWID_NAM,2015,59455442,
+North America,OWID_NAM,2020,62875468,
+North America,OWID_NAM,2024,66140483,
+North Korea,PRK,1990,34103,Asia
+North Korea,PRK,1995,35143,Asia
+North Korea,PRK,2000,36183,Asia
+North Korea,PRK,2005,40097,Asia
+North Korea,PRK,2010,44010,Asia
+North Korea,PRK,2015,48458,Asia
+North Korea,PRK,2020,49549,Asia
+North Korea,PRK,2024,50439,Asia
+North Macedonia,MKD,1990,95142,Europe
+North Macedonia,MKD,1995,109343,Europe
+North Macedonia,MKD,2000,125665,Europe
+North Macedonia,MKD,2005,127667,Europe
+North Macedonia,MKD,2010,129701,Europe
+North Macedonia,MKD,2015,130730,Europe
+North Macedonia,MKD,2020,131311,Europe
+North Macedonia,MKD,2024,150902,Europe
+Northern Africa (UN),,1990,2374205,
+Northern Africa (UN),,1995,2075487,
+Northern Africa (UN),,2000,1895038,
+Northern Africa (UN),,2005,1753656,
+Northern Africa (UN),,2010,1965200,
+Northern Africa (UN),,2015,2284569,
+Northern Africa (UN),,2020,3226461,
+Northern Africa (UN),,2024,4874040,
+Northern Africa and Western Asia (UN),,1990,16863681,
+Northern Africa and Western Asia (UN),,1995,18573252,
+Northern Africa and Western Asia (UN),,2000,20033534,
+Northern Africa and Western Asia (UN),,2005,23016410,
+Northern Africa and Western Asia (UN),,2010,32028416,
+Northern Africa and Western Asia (UN),,2015,44083778,
+Northern Africa and Western Asia (UN),,2020,48992329,
+Northern Africa and Western Asia (UN),,2024,54085710,
+Northern America (UN),UN_NAM,1990,27543267,
+Northern America (UN),UN_NAM,1995,33404578,
+Northern America (UN),UN_NAM,2000,40357995,
+Northern America (UN),UN_NAM,2005,45658615,
+Northern America (UN),UN_NAM,2010,51007867,
+Northern America (UN),UN_NAM,2015,56019067,
+Northern America (UN),UN_NAM,2020,58830556,
+Northern America (UN),UN_NAM,2024,61207877,
+Northern Europe (UN),,1990,6656282,
+Northern Europe (UN),,1995,7237021,
+Northern Europe (UN),,2000,7963939,
+Northern Europe (UN),,2005,9668148,
+Northern Europe (UN),,2010,11953254,
+Northern Europe (UN),,2015,13955273,
+Northern Europe (UN),,2020,16246850,
+Northern Europe (UN),,2024,18543047,
+Northern Mariana Islands,MNP,1990,26593,Oceania
+Northern Mariana Islands,MNP,1995,32376,Oceania
+Northern Mariana Islands,MNP,2000,40122,Oceania
+Northern Mariana Islands,MNP,2005,37542,Oceania
+Northern Mariana Islands,MNP,2010,24168,Oceania
+Northern Mariana Islands,MNP,2015,21648,Oceania
+Northern Mariana Islands,MNP,2020,21843,Oceania
+Northern Mariana Islands,MNP,2024,22000,Oceania
+Norway,NOR,1990,192587,Europe
+Norway,NOR,1995,233302,Europe
+Norway,NOR,2000,292440,Europe
+Norway,NOR,2005,361144,Europe
+Norway,NOR,2010,524601,Europe
+Norway,NOR,2015,746375,Europe
+Norway,NOR,2020,852238,Europe
+Norway,NOR,2024,1012404,Europe
+Oceania,OWID_OCE,1990,4776548,
+Oceania,OWID_OCE,1995,5091137,
+Oceania,OWID_OCE,2000,5372431,
+Oceania,OWID_OCE,2005,6041977,
+Oceania,OWID_OCE,2010,7134959,
+Oceania,OWID_OCE,2015,8168067,
+Oceania,OWID_OCE,2020,9261819,
+Oceania,OWID_OCE,2024,9901164,
+Oman,OMN,1990,526784,Asia
+Oman,OMN,1995,538639,Asia
+Oman,OMN,2000,550760,Asia
+Oman,OMN,2005,608416,Asia
+Oman,OMN,2010,803387,Asia
+Oman,OMN,2015,1827972,Asia
+Oman,OMN,2020,1766142,Asia
+Oman,OMN,2024,2283366,Asia
+Pakistan,PAK,1990,6208204,Asia
+Pakistan,PAK,1995,3669308,Asia
+Pakistan,PAK,2000,4181912,Asia
+Pakistan,PAK,2005,3174558,Asia
+Pakistan,PAK,2010,3943681,Asia
+Pakistan,PAK,2015,3506520,Asia
+Pakistan,PAK,2020,3276580,Asia
+Pakistan,PAK,2024,4175958,Asia
+Palau,PLW,1990,2801,Oceania
+Palau,PLW,1995,4749,Oceania
+Palau,PLW,2000,6310,Oceania
+Palau,PLW,2005,6043,Oceania
+Palau,PLW,2010,5490,Oceania
+Palau,PLW,2015,4937,Oceania
+Palau,PLW,2020,5088,Oceania
+Palau,PLW,2024,5212,Oceania
+Palestine,PSE,1990,288332,Asia
+Palestine,PSE,1995,281767,Asia
+Palestine,PSE,2000,275202,Asia
+Palestine,PSE,2005,274520,Asia
+Palestine,PSE,2010,273840,Asia
+Palestine,PSE,2015,273163,Asia
+Palestine,PSE,2020,272784,Asia
+Palestine,PSE,2024,272481,Asia
+Panama,PAN,1990,62744,North America
+Panama,PAN,1995,70848,North America
+Panama,PAN,2000,83410,North America
+Panama,PAN,2005,109461,North America
+Panama,PAN,2010,157788,North America
+Panama,PAN,2015,184710,North America
+Panama,PAN,2020,313165,North America
+Panama,PAN,2024,477749,North America
+Papua New Guinea,PNG,1990,33710,Oceania
+Papua New Guinea,PNG,1995,33526,Oceania
+Papua New Guinea,PNG,2000,26304,Oceania
+Papua New Guinea,PNG,2005,29971,Oceania
+Papua New Guinea,PNG,2010,30425,Oceania
+Papua New Guinea,PNG,2015,30940,Oceania
+Papua New Guinea,PNG,2020,31068,Oceania
+Papua New Guinea,PNG,2024,31171,Oceania
+Paraguay,PRY,1990,195884,South America
+Paraguay,PRY,1995,186570,South America
+Paraguay,PRY,2000,176608,South America
+Paraguay,PRY,2005,168243,South America
+Paraguay,PRY,2010,160299,South America
+Paraguay,PRY,2015,156462,South America
+Paraguay,PRY,2020,169567,South America
+Paraguay,PRY,2024,180837,South America
+Peru,PER,1990,48985,South America
+Peru,PER,1995,56831,South America
+Peru,PER,2000,66103,South America
+Peru,PER,2005,77195,South America
+Peru,PER,2010,102662,South America
+Peru,PER,2015,152562,South America
+Peru,PER,2020,1184762,South America
+Peru,PER,2024,1837219,South America
+Philippines,PHL,1990,134600,Asia
+Philippines,PHL,1995,145980,Asia
+Philippines,PHL,2000,157361,Asia
+Philippines,PHL,2005,168741,Asia
+Philippines,PHL,2010,178147,Asia
+Philippines,PHL,2015,131897,Asia
+Philippines,PHL,2020,87212,Asia
+Philippines,PHL,2024,87212,Asia
+Poland,POL,1990,1127393,Europe
+Poland,POL,1995,963028,Europe
+Poland,POL,2000,822627,Europe
+Poland,POL,2005,724887,Europe
+Poland,POL,2010,649114,Europe
+Poland,POL,2015,683663,Europe
+Poland,POL,2020,738099,Europe
+Poland,POL,2024,1739901,Europe
+Polynesia,OWID_PYA,1990,58509,
+Polynesia,OWID_PYA,1995,65065,
+Polynesia,OWID_PYA,2000,71151,
+Polynesia,OWID_PYA,2005,73768,
+Polynesia,OWID_PYA,2010,72741,
+Polynesia,OWID_PYA,2015,70001,
+Polynesia,OWID_PYA,2020,70136,
+Polynesia,OWID_PYA,2024,70292,
+Portugal,PRT,1990,435782,Europe
+Portugal,PRT,1995,532822,Europe
+Portugal,PRT,2000,651472,Europe
+Portugal,PRT,2005,771184,Europe
+Portugal,PRT,2010,762825,Europe
+Portugal,PRT,2015,864814,Europe
+Portugal,PRT,2020,1001963,Europe
+Portugal,PRT,2024,1127184,Europe
+Puerto Rico,PRI,1990,321909,North America
+Puerto Rico,PRI,1995,338067,North America
+Puerto Rico,PRI,2000,355038,North America
+Puerto Rico,PRI,2005,352144,North America
+Puerto Rico,PRI,2010,304969,North America
+Puerto Rico,PRI,2015,280494,North America
+Puerto Rico,PRI,2020,247132,North America
+Puerto Rico,PRI,2024,223323,North America
+Qatar,QAT,1990,215508,Asia
+Qatar,QAT,1995,307661,Asia
+Qatar,QAT,2000,439215,Asia
+Qatar,QAT,2005,643000,Asia
+Qatar,QAT,2010,1409000,Asia
+Qatar,QAT,2015,2090000,Asia
+Qatar,QAT,2020,2182000,Asia
+Qatar,QAT,2024,2337000,Asia
+Reunion,REU,1990,57210,Africa
+Reunion,REU,1995,77159,Africa
+Reunion,REU,2000,100678,Africa
+Reunion,REU,2005,115076,Africa
+Reunion,REU,2010,123029,Africa
+Reunion,REU,2015,127209,Africa
+Reunion,REU,2020,131769,Africa
+Reunion,REU,2024,135534,Africa
+Romania,ROU,1990,135745,Europe
+Romania,ROU,1995,134970,Europe
+Romania,ROU,2000,134204,Europe
+Romania,ROU,2005,139430,Europe
+Romania,ROU,2010,148107,Europe
+Romania,ROU,2015,212560,Europe
+Romania,ROU,2020,338734,Europe
+Romania,ROU,2024,655579,Europe
+Russia,RUS,1990,11524948,Europe
+Russia,RUS,1995,11928927,Europe
+Russia,RUS,2000,11900297,Europe
+Russia,RUS,2005,11667588,Europe
+Russia,RUS,2010,11199727,Europe
+Russia,RUS,2015,9098229,Europe
+Russia,RUS,2020,7297611,Europe
+Russia,RUS,2024,7605774,Europe
+Rwanda,RWA,1990,160024,Africa
+Rwanda,RWA,1995,215735,Africa
+Rwanda,RWA,2000,347076,Africa
+Rwanda,RWA,2005,423187,Africa
+Rwanda,RWA,2010,426901,Africa
+Rwanda,RWA,2015,514647,Africa
+Rwanda,RWA,2020,513907,Africa
+Rwanda,RWA,2024,513316,Africa
+Saint Helena,SHN,1990,178,Africa
+Saint Helena,SHN,1995,117,Africa
+Saint Helena,SHN,2000,108,Africa
+Saint Helena,SHN,2005,163,Africa
+Saint Helena,SHN,2010,248,Africa
+Saint Helena,SHN,2015,377,Africa
+Saint Helena,SHN,2020,437,Africa
+Saint Helena,SHN,2024,492,Africa
+Saint Kitts and Nevis,KNA,1990,3210,North America
+Saint Kitts and Nevis,KNA,1995,4248,North America
+Saint Kitts and Nevis,KNA,2000,5871,North America
+Saint Kitts and Nevis,KNA,2005,6682,North America
+Saint Kitts and Nevis,KNA,2010,7245,North America
+Saint Kitts and Nevis,KNA,2015,7443,North America
+Saint Kitts and Nevis,KNA,2020,7725,North America
+Saint Kitts and Nevis,KNA,2024,7958,North America
+Saint Lucia,LCA,1990,5305,North America
+Saint Lucia,LCA,1995,7155,North America
+Saint Lucia,LCA,2000,9871,North America
+Saint Lucia,LCA,2005,9839,North America
+Saint Lucia,LCA,2010,9050,North America
+Saint Lucia,LCA,2015,8673,North America
+Saint Lucia,LCA,2020,8338,North America
+Saint Lucia,LCA,2024,8079,North America
+Saint Pierre and Miquelon,SPM,1990,1099,North America
+Saint Pierre and Miquelon,SPM,1995,1320,North America
+Saint Pierre and Miquelon,SPM,2000,1458,North America
+Saint Pierre and Miquelon,SPM,2005,1147,North America
+Saint Pierre and Miquelon,SPM,2010,1017,North America
+Saint Pierre and Miquelon,SPM,2015,986,North America
+Saint Pierre and Miquelon,SPM,2020,998,North America
+Saint Pierre and Miquelon,SPM,2024,1008,North America
+Saint Vincent and the Grenadines,VCT,1990,3970,North America
+Saint Vincent and the Grenadines,VCT,1995,4135,North America
+Saint Vincent and the Grenadines,VCT,2000,4307,North America
+Saint Vincent and the Grenadines,VCT,2005,4436,North America
+Saint Vincent and the Grenadines,VCT,2010,4569,North America
+Saint Vincent and the Grenadines,VCT,2015,4637,North America
+Saint Vincent and the Grenadines,VCT,2020,4738,North America
+Saint Vincent and the Grenadines,VCT,2024,4820,North America
+Samoa,WSM,1990,3357,Oceania
+Samoa,WSM,1995,4694,Oceania
+Samoa,WSM,2000,5998,Oceania
+Samoa,WSM,2005,5746,Oceania
+Samoa,WSM,2010,5122,Oceania
+Samoa,WSM,2015,4255,Oceania
+Samoa,WSM,2020,4021,Oceania
+Samoa,WSM,2024,3843,Oceania
+San Marino,SMR,1990,3310,Europe
+San Marino,SMR,1995,3659,Europe
+San Marino,SMR,2000,4045,Europe
+San Marino,SMR,2005,4218,Europe
+San Marino,SMR,2010,4880,Europe
+San Marino,SMR,2015,5195,Europe
+San Marino,SMR,2020,5543,Europe
+San Marino,SMR,2024,5838,Europe
+Sao Tome and Principe,STP,1990,5582,Africa
+Sao Tome and Principe,STP,1995,4936,Africa
+Sao Tome and Principe,STP,2000,4365,Africa
+Sao Tome and Principe,STP,2005,3433,Africa
+Sao Tome and Principe,STP,2010,2700,Africa
+Sao Tome and Principe,STP,2015,2394,Africa
+Sao Tome and Principe,STP,2020,2139,Africa
+Sao Tome and Principe,STP,2024,1955,Africa
+Saudi Arabia,SAU,1990,4484868,Asia
+Saudi Arabia,SAU,1995,4853489,Asia
+Saudi Arabia,SAU,2000,5219382,Asia
+Saudi Arabia,SAU,2005,6605114,Asia
+Saudi Arabia,SAU,2010,8976961,Asia
+Saudi Arabia,SAU,2015,13251622,Asia
+Saudi Arabia,SAU,2020,13071258,Asia
+Saudi Arabia,SAU,2024,13683841,Asia
+Senegal,SEN,1990,270410,Africa
+Senegal,SEN,1995,287654,Africa
+Senegal,SEN,2000,231901,Africa
+Senegal,SEN,2005,238298,Africa
+Senegal,SEN,2010,256092,Africa
+Senegal,SEN,2015,266496,Africa
+Senegal,SEN,2020,274929,Africa
+Senegal,SEN,2024,281867,Africa
+Serbia,SRB,1990,1064614,Europe
+Serbia,SRB,1995,1543744,Europe
+Serbia,SRB,2000,1419951,Europe
+Serbia,SRB,2005,1078633,Europe
+Serbia,SRB,2010,901044,Europe
+Serbia,SRB,2015,797595,Europe
+Serbia,SRB,2020,733091,Europe
+Serbia,SRB,2024,712550,Europe
+Seychelles,SYC,1990,3721,Africa
+Seychelles,SYC,1995,5148,Africa
+Seychelles,SYC,2000,6574,Africa
+Seychelles,SYC,2005,8997,Africa
+Seychelles,SYC,2010,11420,Africa
+Seychelles,SYC,2015,12791,Africa
+Seychelles,SYC,2020,13050,Africa
+Seychelles,SYC,2024,13261,Africa
+Sierra Leone,SLE,1990,222148,Africa
+Sierra Leone,SLE,1995,98516,Africa
+Sierra Leone,SLE,2000,97974,Africa
+Sierra Leone,SLE,2005,146227,Africa
+Sierra Leone,SLE,2010,79265,Africa
+Sierra Leone,SLE,2015,58830,Africa
+Sierra Leone,SLE,2020,53746,Africa
+Sierra Leone,SLE,2024,49997,Africa
+Singapore,SGP,1990,729377,Asia
+Singapore,SGP,1995,993616,Asia
+Singapore,SGP,2000,1319433,Asia
+Singapore,SGP,2005,1494527,Asia
+Singapore,SGP,2010,2160350,Asia
+Singapore,SGP,2015,2535340,Asia
+Singapore,SGP,2020,2589107,Asia
+Singapore,SGP,2024,2841665,Asia
+Sint Maarten (Dutch part),SXM,1990,23861,North America
+Sint Maarten (Dutch part),SXM,1995,23861,North America
+Sint Maarten (Dutch part),SXM,2000,23861,North America
+Sint Maarten (Dutch part),SXM,2005,13099,North America
+Sint Maarten (Dutch part),SXM,2010,26203,North America
+Sint Maarten (Dutch part),SXM,2015,27295,North America
+Sint Maarten (Dutch part),SXM,2020,28845,North America
+Sint Maarten (Dutch part),SXM,2024,30148,North America
+Slovakia,SVK,1990,41295,Europe
+Slovakia,SVK,1995,69323,Europe
+Slovakia,SVK,2000,116376,Europe
+Slovakia,SVK,2005,130491,Europe
+Slovakia,SVK,2010,146319,Europe
+Slovakia,SVK,2015,177624,Europe
+Slovakia,SVK,2020,197161,Europe
+Slovakia,SVK,2024,323991,Europe
+Slovenia,SVN,1990,178077,Europe
+Slovenia,SVN,1995,174419,Europe
+Slovenia,SVN,2000,214508,Europe
+Slovenia,SVN,2005,217218,Europe
+Slovenia,SVN,2010,253786,Europe
+Slovenia,SVN,2015,237616,Europe
+Slovenia,SVN,2020,277964,Europe
+Slovenia,SVN,2024,315122,Europe
+Small Island Developing States (SIDS),,1990,2208579,
+Small Island Developing States (SIDS),,1995,2621962,
+Small Island Developing States (SIDS),,2000,3082560,
+Small Island Developing States (SIDS),,2005,3341149,
+Small Island Developing States (SIDS),,2010,4039607,
+Small Island Developing States (SIDS),,2015,4603415,
+Small Island Developing States (SIDS),,2020,4807366,
+Small Island Developing States (SIDS),,2024,5308114,
+Solomon Islands,SLB,1990,4226,Oceania
+Solomon Islands,SLB,1995,4178,Oceania
+Solomon Islands,SLB,2000,3981,Oceania
+Solomon Islands,SLB,2005,3271,Oceania
+Solomon Islands,SLB,2010,2760,Oceania
+Solomon Islands,SLB,2015,2585,Oceania
+Solomon Islands,SLB,2020,2520,Oceania
+Solomon Islands,SLB,2024,2469,Oceania
+Somalia,SOM,1990,478294,Africa
+Somalia,SOM,1995,19527,Africa
+Somalia,SOM,2000,20097,Africa
+Somalia,SOM,2005,20768,Africa
+Somalia,SOM,2010,48106,Africa
+Somalia,SOM,2015,40990,Africa
+Somalia,SOM,2020,58590,Africa
+Somalia,SOM,2024,77972,Africa
+South Africa,ZAF,1990,1285707,Africa
+South Africa,ZAF,1995,1006597,Africa
+South Africa,ZAF,2000,997703,Africa
+South Africa,ZAF,2005,1513855,Africa
+South Africa,ZAF,2010,2274466,Africa
+South Africa,ZAF,2015,3162564,Africa
+South Africa,ZAF,2020,2639076,Africa
+South Africa,ZAF,2024,2631100,Africa
+South America,OWID_SAM,1990,4319559,
+South America,OWID_SAM,1995,4243306,
+South America,OWID_SAM,2000,4210082,
+South America,OWID_SAM,2005,4423159,
+South America,OWID_SAM,2010,5198444,
+South America,OWID_SAM,2015,5673584,
+South America,OWID_SAM,2020,10242853,
+South America,OWID_SAM,2024,12577921,
+South Korea,KOR,1990,18499,Asia
+South Korea,KOR,1995,52719,Asia
+South Korea,KOR,2000,144426,Asia
+South Korea,KOR,2005,231744,Asia
+South Korea,KOR,2010,566098,Asia
+South Korea,KOR,2015,1312172,Asia
+South Korea,KOR,2020,1723389,Asia
+South Korea,KOR,2024,1811507,Asia
+South Sudan,SSD,1990,652365,Africa
+South Sudan,SSD,1995,652365,Africa
+South Sudan,SSD,2000,652365,Africa
+South Sudan,SSD,2005,652365,Africa
+South Sudan,SSD,2010,230732,Africa
+South Sudan,SSD,2015,844112,Africa
+South Sudan,SSD,2020,882252,Africa
+South Sudan,SSD,2024,914001,Africa
+South-Eastern Asia (UN),,1990,2637040,
+South-Eastern Asia (UN),,1995,3250697,
+South-Eastern Asia (UN),,2000,4608647,
+South-Eastern Asia (UN),,2005,6040145,
+South-Eastern Asia (UN),,2010,8567047,
+South-Eastern Asia (UN),,2015,9631549,
+South-Eastern Asia (UN),,2020,10242239,
+South-Eastern Asia (UN),,2024,11029593,
+Southern Africa (UN),,1990,1517089,
+Southern Africa (UN),,1995,1204498,
+Southern Africa (UN),,2000,1248435,
+Southern Africa (UN),,2005,1745545,
+Southern Africa (UN),,2010,2512206,
+Southern Africa (UN),,2015,3408739,
+Southern Africa (UN),,2020,2903653,
+Southern Africa (UN),,2024,2911844,
+Southern Asia (UN),,1990,19155930,
+Southern Asia (UN),,1995,15227642,
+Southern Asia (UN),,2000,14930955,
+Southern Asia (UN),,2005,13636926,
+Southern Asia (UN),,2010,14439064,
+Southern Asia (UN),,2015,13914922,
+Southern Asia (UN),,2020,13914646,
+Southern Asia (UN),,2024,16459536,
+Southern Europe (UN),,1990,5472616,
+Southern Europe (UN),,1995,7250345,
+Southern Europe (UN),,2000,8585552,
+Southern Europe (UN),,2005,11897749,
+Southern Europe (UN),,2010,15213351,
+Southern Europe (UN),,2015,15507903,
+Southern Europe (UN),,2020,17716268,
+Southern Europe (UN),,2024,20119984,
+Spain,ESP,1990,813588,Europe
+Spain,ESP,1995,1258176,Europe
+Spain,ESP,2000,2023886,Europe
+Spain,ESP,2005,4372449,Europe
+Spain,ESP,2010,6281193,Europe
+Spain,ESP,2015,5892847,Europe
+Spain,ESP,2020,7146130,Europe
+Spain,ESP,2024,8870527,Europe
+Sri Lanka,LKA,1990,41561,Asia
+Sri Lanka,LKA,1995,40841,Asia
+Sri Lanka,LKA,2000,40132,Asia
+Sri Lanka,LKA,2005,39526,Asia
+Sri Lanka,LKA,2010,38959,Asia
+Sri Lanka,LKA,2015,39706,Asia
+Sri Lanka,LKA,2020,40254,Asia
+Sri Lanka,LKA,2024,40698,Asia
+Sub-Saharan Africa (UN),,1990,13802710,
+Sub-Saharan Africa (UN),,1995,14578211,
+Sub-Saharan Africa (UN),,2000,13518102,
+Sub-Saharan Africa (UN),,2005,14849146,
+Sub-Saharan Africa (UN),,2010,15787016,
+Sub-Saharan Africa (UN),,2015,20399360,
+Sub-Saharan Africa (UN),,2020,22040895,
+Sub-Saharan Africa (UN),,2024,24306400,
+Sudan,SDN,1990,1402896,Africa
+Sudan,SDN,1995,1053396,Africa
+Sudan,SDN,2000,805086,Africa
+Sudan,SDN,2005,546419,Africa
+Sudan,SDN,2010,618709,Africa
+Sudan,SDN,2015,620523,Africa
+Sudan,SDN,2020,1379147,Africa
+Sudan,SDN,2024,2397113,Africa
+Suriname,SUR,1990,18083,South America
+Suriname,SUR,1995,22320,South America
+Suriname,SUR,2000,27506,South America
+Suriname,SUR,2005,33662,South America
+Suriname,SUR,2010,39713,South America
+Suriname,SUR,2015,43127,South America
+Suriname,SUR,2020,47801,South America
+Suriname,SUR,2024,51902,South America
+Sweden,SWE,1990,784283,Europe
+Sweden,SWE,1995,944802,Europe
+Sweden,SWE,2000,1022156,Europe
+Sweden,SWE,2005,1126971,Europe
+Sweden,SWE,2010,1372074,Europe
+Sweden,SWE,2015,1638195,Europe
+Sweden,SWE,2020,2033902,Europe
+Sweden,SWE,2024,2272158,Europe
+Switzerland,CHE,1990,1252320,Europe
+Switzerland,CHE,1995,1363586,Europe
+Switzerland,CHE,2000,1484514,Europe
+Switzerland,CHE,2005,1740312,Europe
+Switzerland,CHE,2010,2053953,Europe
+Switzerland,CHE,2015,2385713,Europe
+Switzerland,CHE,2020,2610189,Europe
+Switzerland,CHE,2024,2773840,Europe
+Syria,SYR,1990,714140,Asia
+Syria,SYR,1995,830610,Asia
+Syria,SYR,2000,834916,Asia
+Syria,SYR,2005,882398,Asia
+Syria,SYR,2010,1783595,Asia
+Syria,SYR,2015,835716,Asia
+Syria,SYR,2020,868711,Asia
+Syria,SYR,2024,896042,Asia
+Taiwan,TWN,1990,66378,Asia
+Taiwan,TWN,1995,246682,Asia
+Taiwan,TWN,2000,450366,Asia
+Taiwan,TWN,2005,548367,Asia
+Taiwan,TWN,2010,587646,Asia
+Taiwan,TWN,2015,866324,Asia
+Taiwan,TWN,2020,1055191,Asia
+Taiwan,TWN,2024,1136425,Asia
+Tajikistan,TJK,1990,428900,Asia
+Tajikistan,TJK,1995,348347,Asia
+Tajikistan,TJK,2000,299499,Asia
+Tajikistan,TJK,2005,280466,Asia
+Tajikistan,TJK,2010,279808,Asia
+Tajikistan,TJK,2015,275101,Asia
+Tajikistan,TJK,2020,276031,Asia
+Tajikistan,TJK,2024,276777,Asia
+Tanzania,TZA,1990,574025,Africa
+Tanzania,TZA,1995,1106043,Africa
+Tanzania,TZA,2000,949600,Africa
+Tanzania,TZA,2005,771153,Africa
+Tanzania,TZA,2010,309847,Africa
+Tanzania,TZA,2015,384567,Africa
+Tanzania,TZA,2020,426017,Africa
+Tanzania,TZA,2024,462371,Africa
+Thailand,THA,1990,287933,Asia
+Thailand,THA,1995,271568,Asia
+Thailand,THA,2000,771234,Asia
+Thailand,THA,2005,1705845,Asia
+Thailand,THA,2010,2640454,Asia
+Thailand,THA,2015,2853248,Asia
+Thailand,THA,2020,3015007,Asia
+Thailand,THA,2024,3179399,Asia
+Togo,TGO,1990,84844,Africa
+Togo,TGO,1995,101583,Africa
+Togo,TGO,2000,137968,Africa
+Togo,TGO,2005,204219,Africa
+Togo,TGO,2010,255564,Africa
+Togo,TGO,2015,277384,Africa
+Togo,TGO,2020,279936,Africa
+Togo,TGO,2024,281994,Africa
+Tokelau,TKL,1990,360,Oceania
+Tokelau,TKL,1995,506,Oceania
+Tokelau,TKL,2000,712,Oceania
+Tokelau,TKL,2005,1003,Oceania
+Tokelau,TKL,2010,1128,Oceania
+Tokelau,TKL,2015,1185,Oceania
+Tokelau,TKL,2020,1238,Oceania
+Tokelau,TKL,2024,1282,Oceania
+Tonga,TON,1990,2911,Oceania
+Tonga,TON,1995,3274,Oceania
+Tonga,TON,2000,3684,Oceania
+Tonga,TON,2005,4301,Oceania
+Tonga,TON,2010,4607,Oceania
+Tonga,TON,2015,3954,Oceania
+Tonga,TON,2020,3742,Oceania
+Tonga,TON,2024,3581,Oceania
+Trinidad and Tobago,TTO,1990,50666,North America
+Trinidad and Tobago,TTO,1995,45994,North America
+Trinidad and Tobago,TTO,2000,41753,North America
+Trinidad and Tobago,TTO,2005,44812,North America
+Trinidad and Tobago,TTO,2010,48226,North America
+Trinidad and Tobago,TTO,2015,50021,North America
+Trinidad and Tobago,TTO,2020,78849,North America
+Trinidad and Tobago,TTO,2024,113478,North America
+Tunisia,TUN,1990,37984,Africa
+Tunisia,TUN,1995,37867,Africa
+Tunisia,TUN,2000,36719,Africa
+Tunisia,TUN,2005,35040,Africa
+Tunisia,TUN,2010,43172,Africa
+Tunisia,TUN,2015,56532,Africa
+Tunisia,TUN,2020,60145,Africa
+Tunisia,TUN,2024,63201,Africa
+Turkey,TUR,1990,1159415,Asia
+Turkey,TUR,1995,1220898,Asia
+Turkey,TUR,2000,1279019,Asia
+Turkey,TUR,2005,1345188,Asia
+Turkey,TUR,2010,1420433,Asia
+Turkey,TUR,2015,3750982,Asia
+Turkey,TUR,2020,6580295,Asia
+Turkey,TUR,2024,7083501,Asia
+Turkmenistan,TKM,1990,306500,Asia
+Turkmenistan,TKM,1995,273565,Asia
+Turkmenistan,TKM,2000,219067,Asia
+Turkmenistan,TKM,2005,213053,Asia
+Turkmenistan,TKM,2010,197979,Asia
+Turkmenistan,TKM,2015,196376,Asia
+Turkmenistan,TKM,2020,194920,Asia
+Turkmenistan,TKM,2024,193763,Asia
+Turks and Caicos Islands,TCA,1990,5062,North America
+Turks and Caicos Islands,TCA,1995,7039,North America
+Turks and Caicos Islands,TCA,2000,9015,North America
+Turks and Caicos Islands,TCA,2005,13115,North America
+Turks and Caicos Islands,TCA,2010,17216,North America
+Turks and Caicos Islands,TCA,2015,22723,North America
+Turks and Caicos Islands,TCA,2020,25748,North America
+Turks and Caicos Islands,TCA,2024,28455,North America
+Tuvalu,TUV,1990,318,Oceania
+Tuvalu,TUV,1995,263,Oceania
+Tuvalu,TUV,2000,218,Oceania
+Tuvalu,TUV,2005,209,Oceania
+Tuvalu,TUV,2010,220,Oceania
+Tuvalu,TUV,2015,230,Oceania
+Tuvalu,TUV,2020,239,Oceania
+Tuvalu,TUV,2024,246,Oceania
+Uganda,UGA,1990,560570,Africa
+Uganda,UGA,1995,666211,Africa
+Uganda,UGA,2000,624296,Africa
+Uganda,UGA,2005,637596,Africa
+Uganda,UGA,2010,515055,Africa
+Uganda,UGA,2015,823181,Africa
+Uganda,UGA,2020,1776038,Africa
+Uganda,UGA,2024,2057759,Africa
+Ukraine,UKR,1990,6892920,Europe
+Ukraine,UKR,1995,6172338,Europe
+Ukraine,UKR,2000,5527087,Europe
+Ukraine,UKR,2005,5050302,Europe
+Ukraine,UKR,2010,4818767,Europe
+Ukraine,UKR,2015,4915142,Europe
+Ukraine,UKR,2020,4997387,Europe
+Ukraine,UKR,2024,5064173,Europe
+United Arab Emirates,ARE,1990,1302298,Asia
+United Arab Emirates,ARE,1995,1795514,Asia
+United Arab Emirates,ARE,2000,2373577,Asia
+United Arab Emirates,ARE,2005,3218730,Asia
+United Arab Emirates,ARE,2010,5446000,Asia
+United Arab Emirates,ARE,2015,6859000,Asia
+United Arab Emirates,ARE,2020,7184000,Asia
+United Arab Emirates,ARE,2024,8157000,Asia
+United Kingdom,GBR,1990,3664896,Europe
+United Kingdom,GBR,1995,4173053,Europe
+United Kingdom,GBR,2000,4747902,Europe
+United Kingdom,GBR,2005,5989992,Europe
+United Kingdom,GBR,2010,7713303,Europe
+United Kingdom,GBR,2015,9071431,Europe
+United Kingdom,GBR,2020,10520870,Europe
+United Kingdom,GBR,2024,11845479,Europe
+United States,USA,1990,23266147,North America
+United States,USA,1995,28525723,North America
+United States,USA,2000,34806848,North America
+United States,USA,2005,39545828,North America
+United States,USA,2010,43947211,North America
+United States,USA,2015,47942986,North America
+United States,USA,2020,50471028,North America
+United States,USA,2024,52375047,North America
+United States Virgin Islands,VIR,1990,51970,North America
+United States Virgin Islands,VIR,1995,54241,North America
+United States Virgin Islands,VIR,2000,56611,North America
+United States Virgin Islands,VIR,2005,56647,North America
+United States Virgin Islands,VIR,2010,56684,North America
+United States Virgin Islands,VIR,2015,56721,North America
+United States Virgin Islands,VIR,2020,56753,North America
+United States Virgin Islands,VIR,2024,56779,North America
+Upper-middle-income countries,OWID_UMC,1990,30226233,
+Upper-middle-income countries,OWID_UMC,1995,27952605,
+Upper-middle-income countries,OWID_UMC,2000,27369926,
+Upper-middle-income countries,OWID_UMC,2005,28937769,
+Upper-middle-income countries,OWID_UMC,2010,33487162,
+Upper-middle-income countries,OWID_UMC,2015,39354359,
+Upper-middle-income countries,OWID_UMC,2020,47250018,
+Upper-middle-income countries,OWID_UMC,2024,53189829,
+Uruguay,URY,1990,98116,South America
+Uruguay,URY,1995,93428,South America
+Uruguay,URY,2000,88874,South America
+Uruguay,URY,2005,82317,South America
+Uruguay,URY,2010,76303,South America
+Uruguay,URY,2015,78799,South America
+Uruguay,URY,2020,108267,South America
+Uruguay,URY,2024,160064,South America
+Uzbekistan,UZB,1990,1653000,Asia
+Uzbekistan,UZB,1995,1512577,Asia
+Uzbekistan,UZB,2000,1406498,Asia
+Uzbekistan,UZB,2005,1329932,Asia
+Uzbekistan,UZB,2010,1220149,Asia
+Uzbekistan,UZB,2015,1170873,Asia
+Uzbekistan,UZB,2020,1162007,Asia
+Uzbekistan,UZB,2024,1154963,Asia
+Vanuatu,VUT,1990,2308,Oceania
+Vanuatu,VUT,1995,2461,Oceania
+Vanuatu,VUT,2000,2626,Oceania
+Vanuatu,VUT,2005,2800,Oceania
+Vanuatu,VUT,2010,2991,Oceania
+Vanuatu,VUT,2015,3186,Oceania
+Vanuatu,VUT,2020,3257,Oceania
+Vanuatu,VUT,2024,3315,Oceania
+Vatican,VAT,1990,726,Europe
+Vatican,VAT,1995,705,Europe
+Vatican,VAT,2000,691,Europe
+Vatican,VAT,2005,659,Europe
+Vatican,VAT,2010,621,Europe
+Vatican,VAT,2015,572,Europe
+Vatican,VAT,2020,528,Europe
+Vatican,VAT,2024,496,Europe
+Venezuela,VEN,1990,1025009,South America
+Venezuela,VEN,1995,1019996,South America
+Venezuela,VEN,2000,1013738,South America
+Venezuela,VEN,2005,1076474,South America
+Venezuela,VEN,2010,1347347,South America
+Venezuela,VEN,2015,1404448,South America
+Venezuela,VEN,2020,1324193,South America
+Venezuela,VEN,2024,1263304,South America
+Vietnam,VNM,1990,88560,Asia
+Vietnam,VNM,1995,88376,Asia
+Vietnam,VNM,2000,86213,Asia
+Vietnam,VNM,2005,81997,Asia
+Vietnam,VNM,2010,84408,Asia
+Vietnam,VNM,2015,101386,Asia
+Vietnam,VNM,2020,200639,Asia
+Vietnam,VNM,2024,326418,Asia
+Western Africa (UN),,1990,4476686,
+Western Africa (UN),,1995,5350182,
+Western Africa (UN),,2000,5254826,
+Western Africa (UN),,2005,6000026,
+Western Africa (UN),,2010,6413896,
+Western Africa (UN),,2015,7206050,
+Western Africa (UN),,2020,7747495,
+Western Africa (UN),,2024,8236829,
+Western Asia (UN),,1990,14489476,
+Western Asia (UN),,1995,16497765,
+Western Asia (UN),,2000,18138496,
+Western Asia (UN),,2005,21262754,
+Western Asia (UN),,2010,30063216,
+Western Asia (UN),,2015,41799209,
+Western Asia (UN),,2020,45765868,
+Western Asia (UN),,2024,49211670,
+Western Europe (UN),,1990,17019914,
+Western Europe (UN),,1995,20263560,
+Western Europe (UN),,2000,21781702,
+Western Europe (UN),,2005,24134692,
+Western Europe (UN),,2010,25952723,
+Western Europe (UN),,2015,28688766,
+Western Europe (UN),,2020,32846290,
+Western Europe (UN),,2024,36742379,
+Western Sahara,ESH,1990,2688,Africa
+Western Sahara,ESH,1995,2989,Africa
+Western Sahara,ESH,2000,3289,Africa
+Western Sahara,ESH,2005,3891,Africa
+Western Sahara,ESH,2010,4493,Africa
+Western Sahara,ESH,2015,5179,Africa
+Western Sahara,ESH,2020,5424,Africa
+Western Sahara,ESH,2024,5628,Africa
+World,OWID_WRL,1990,153916063,
+World,OWID_WRL,1995,163176002,
+World,OWID_WRL,2000,174566152,
+World,OWID_WRL,2005,192788721,
+World,OWID_WRL,2010,221020392,
+World,OWID_WRL,2015,250042020,
+World,OWID_WRL,2020,275284032,
+World,OWID_WRL,2024,304021813,
+Yemen,YEM,1990,118863,Asia
+Yemen,YEM,1995,136515,Asia
+Yemen,YEM,2000,144940,Asia
+Yemen,YEM,2005,171871,Asia
+Yemen,YEM,2010,288394,Asia
+Yemen,YEM,2015,379882,Asia
+Yemen,YEM,2020,387113,Asia
+Yemen,YEM,2024,392997,Asia
+Zambia,ZMB,1990,279463,Africa
+Zambia,ZMB,1995,244338,Africa
+Zambia,ZMB,2000,343703,Africa
+Zambia,ZMB,2005,252895,Africa
+Zambia,ZMB,2010,149962,Africa
+Zambia,ZMB,2015,132107,Africa
+Zambia,ZMB,2020,187955,Africa
+Zambia,ZMB,2024,249205,Africa
+Zimbabwe,ZWE,1990,634621,Africa
+Zimbabwe,ZWE,1995,431226,Africa
+Zimbabwe,ZWE,2000,410109,Africa
+Zimbabwe,ZWE,2005,402226,Africa
+Zimbabwe,ZWE,2010,398307,Africa
+Zimbabwe,ZWE,2015,400482,Africa
+Zimbabwe,ZWE,2020,416141,Africa
+Zimbabwe,ZWE,2024,429108,Africa

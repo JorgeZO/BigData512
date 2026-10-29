@@ -1,0 +1,32 @@
+{
+  "dataset": "Iris incluido en scikit-learn",
+  "semilla": 82005,
+  "filas_entrenamiento": 105,
+  "filas_prueba": 45,
+  "k": 5,
+  "f1_cv": 0.9712820512820514,
+  "accuracy_prueba": 0.9555555555555556,
+  "f1_macro_prueba": 0.9553571428571429,
+  "clases": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ],
+  "matriz_confusion": [
+    [
+      15,
+      0,
+      0
+    ],
+    [
+      0,
+      13,
+      2
+    ],
+    [
+      0,
+      0,
+      15
+    ]
+  ]
+}

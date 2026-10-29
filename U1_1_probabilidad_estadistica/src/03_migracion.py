@@ -1,38 +1,12 @@
 from pathlib import Path
-
+import sys
 import pandas as pd
-import requests
-
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT.parent / "scripts"))
+from curso import leer_owid, metadatos
 
-# ============================================================
-# 1. EXTRACCIÓN — Fetch the data
-# ============================================================
-
-url_datos = (
-    "https://ourworldindata.org/grapher/migrant-populations.csv"
-    "?v=1&csvType=full&useColumnShortNames=true"
-    "&metric=immigrants&unit=number"
-)
-
-df = pd.read_csv(
-    url_datos,
-    storage_options={
-        "User-Agent": "Our World In Data data fetch/1.0"
-    }
-)
-
-# ============================================================
-# 2. EXTRACCIÓN — Fetch the metadata
-# ============================================================
-
-url_metadata = (
-    "https://ourworldindata.org/grapher/migrant-populations.metadata.json"
-    "?v=1&csvType=full&useColumnShortNames=true"
-    "&metric=immigrants&unit=number"
-)
-
-metadata = requests.get(url_metadata).json()
+df = leer_owid("migrant-populations")
+metadata = metadatos("migrant-populations")
 
 # ============================================================
 # 3. EXPLORACIÓN INICIAL
@@ -58,7 +32,7 @@ print(df.isnull().sum())
 df = df.dropna(subset=["code"])
 
 # Eliminar registros que no tengan número de inmigrantes
-df = df.dropna(subset=["immigrants_all"])
+df = df.dropna(subset=["immigrants_all"]).copy()
 
 # ============================================================
 # 5. TRANSFORMACIÓN
