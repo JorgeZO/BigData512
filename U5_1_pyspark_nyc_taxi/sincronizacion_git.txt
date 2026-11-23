@@ -1,0 +1,6 @@
+Prueba de sincronizacion de BigData512
+Estudiante: Jorge Adalberto Zuniga Oliva
+Fecha: 2026-11-23
+
+PASO_LOCAL: archivo creado en el Git local para verificar su llegada a Databricks.
+PASO_DATABRICKS: pendiente de comprobar.
