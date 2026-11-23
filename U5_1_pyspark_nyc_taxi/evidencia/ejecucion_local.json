@@ -1,0 +1,21 @@
+{
+  "ejecutado_utc": "2026-11-23T22:22:43.927838+00:00",
+  "resultado": "correcto",
+  "python": "3.12.16",
+  "pyspark": "4.0.1",
+  "pyarrow": "22.0.0",
+  "java": "openjdk version \"17.0.21.1\" 2026-11-17",
+  "sistema": "Darwin",
+  "arquitectura": "arm64",
+  "master": "local[*]",
+  "celdas_codigo": 8,
+  "celdas_originales_conservadas": 6,
+  "filas_muestra": 1000,
+  "filas_parquet_declaradas": 3475226,
+  "grupos_filas_parquet": 4,
+  "archivos_parquet_guardados_en_la_practica": [],
+  "errores": 0,
+  "segundos": 17.63,
+  "sha256_notebook_ejecutado": "7881fe9a9913dce8f4124fcb673274b098afb444ea73b69721bafd29c200b142",
+  "alcance": "Muestra local de 1000 filas y tres columnas; Parquet consultado por rangos HTTP, sin guardar el dataset completo."
+}

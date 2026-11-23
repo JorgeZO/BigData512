@@ -1,0 +1,14 @@
+{
+  "archivo_original": "U5_1_preparation_pyspark_NYC_taxi.ipynb",
+  "sha256_original": "c9063eb2046a49d98c851acee0dd777f17a876d5b35c2a191de34364b12cd08d",
+  "procedencia": "Notebook de la materia proporcionado por el estudiante",
+  "cambios": "Identificación del estudiante; celda adicional de configuración del entorno local; respuestas y cierre de recursos. Las seis celdas originales de código se conservan y se verifican por SHA-256.",
+  "sha256_celdas_codigo_originales": [
+    "31eeaf4ce9d60d0bf9f4ccdde459dedd090a7b818df146cf2d119a0648749175",
+    "1b0a084effb18873e22c3c96abf3f4ec64e687eeb612f17b9621e3062c90a1d0",
+    "88e2f33da598f0b32866f5a1ebc688566f5ceff4efaa37b7720ccb6f6783af5f",
+    "28d8d2b755ab7bd78f8728e8086ac24d89a4c6c3d603e01f2ddf4f1c818042f5",
+    "52044e334cbefdf67df0f7ad15154f3131d9f19ef686a8214581e561bd2d1382",
+    "570305baf20cf3e652ad6221f3673e04bcd6d1f0fc3c34e160b99ebe3dafa1a0"
+  ]
+}

@@ -1,0 +1,7 @@
+.venv/
+.runtime-local.json
+.spark-tmp/
+spark-warehouse/
+artifacts/
+__pycache__/
+.ipynb_checkpoints/

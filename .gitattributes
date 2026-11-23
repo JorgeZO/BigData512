@@ -4,5 +4,6 @@
 *.csv -text whitespace=cr-at-eol
 datos_fuente/** -text
 reportes/html/** linguist-generated=true -whitespace
+**/evidencia/*.html linguist-generated=true -whitespace
 *.ipynb text eol=lf
 *.md text eol=lf

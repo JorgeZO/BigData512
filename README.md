@@ -25,10 +25,12 @@ permiten consultarlo sin ejecutar Python.
 | 12 | Clientes mayoristas | [Abrir](U3_1_modelos_ml/notebooks/U4_1_Clustering_Wholesale_Customers.ipynb) | [HTML](reportes/html/U4_1_Clustering_Wholesale_Customers.html) · [PDF](reportes/pdf/U4_1_Clustering_Wholesale_Customers.pdf) |
 | 13 | Clientes de Online Retail | [Abrir](U3_1_modelos_ml/notebooks/U4_2_Clustering_Online_Retail_Customers.ipynb) | [HTML](reportes/html/U4_2_Clustering_Online_Retail_Customers.html) · [PDF](reportes/pdf/U4_2_Clustering_Online_Retail_Customers.pdf) |
 | 14 | Líneas de venta de Online Retail | [Abrir](U3_1_modelos_ml/notebooks/U4_3_Plantilla_Clustering_Online_retail.ipynb) | [HTML](reportes/html/U4_3_Plantilla_Clustering_Online_retail.html) · [PDF](reportes/pdf/U4_3_Plantilla_Clustering_Online_retail.pdf) |
+| 15 | Preparación local de PySpark y NYC Taxi | [Abrir](U5_1_pyspark_nyc_taxi/notebooks/U5_1_preparation_pyspark_NYC_taxi.ipynb) | [HTML](U5_1_pyspark_nyc_taxi/evidencia/U5_1_preparation_pyspark_NYC_taxi.html) · [Evidencia](U5_1_pyspark_nyc_taxi/evidencia/ejecucion_local.json) |
 
-Las 14 prácticas fueron ejecutadas en el orden del índice. El registro de versiones, ejecución y
+Las 14 prácticas base fueron ejecutadas en el orden del índice. El registro de versiones, ejecución y
 huellas de los notebooks está en [reportes/validacion.json](reportes/validacion.json).
 El [mapa de cobertura](COBERTURA.md) relaciona el temario de referencia con cada entrega.
+La nueva práctica [U5.1](U5_1_pyspark_nyc_taxi/README.md) utiliza su propio entorno Python 3.12/Java 17 y tiene un registro de ejecución independiente.
 
 ## Investigaciones
 
